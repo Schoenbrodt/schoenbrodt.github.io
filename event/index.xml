@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Schönbrodt</title>
+    <title>Letzte &amp; zukünftige Vorträge | Schönbrodt</title>
     <link>https://schoenbrodt.github.io/event/</link>
       <atom:link href="https://schoenbrodt.github.io/event/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
+    <description>Letzte &amp; zukünftige Vorträge</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>de</language><lastBuildDate>Tue, 06 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://schoenbrodt.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
+      <title>Letzte &amp; zukünftige Vorträge</title>
       <link>https://schoenbrodt.github.io/event/</link>
     </image>
     
