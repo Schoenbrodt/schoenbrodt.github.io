@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://schoenbrodt.github.io/talk/kunstliche-intelligenz-als-gegenstand-des-mathematikunterrichts/</loc>
+    <loc>https://schoenbrodt.github.io/de/talk/kunstliche-intelligenz-als-gegenstand-des-mathematikunterrichts/</loc>
     <lastmod>2023-06-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -12,11 +12,11 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://schoenbrodt.github.io/talk/kunstliche-intelligenz-als-gegenstand-des-mathematikunterrichts/"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/talk/kunstliche-intelligenz-als-gegenstand-des-mathematikunterrichts/"
                 />
   </url><url>
-    <loc>https://schoenbrodt.github.io/event/</loc>
+    <loc>https://schoenbrodt.github.io/de/event/</loc>
     <lastmod>2023-06-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -26,11 +26,11 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://schoenbrodt.github.io/event/"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/event/"
                 />
   </url><url>
-    <loc>https://schoenbrodt.github.io/</loc>
+    <loc>https://schoenbrodt.github.io/de/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -40,11 +40,11 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://schoenbrodt.github.io/"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/"
                 />
   </url><url>
-    <loc>https://schoenbrodt.github.io/tag/academic/</loc>
+    <loc>https://schoenbrodt.github.io/de/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -54,11 +54,11 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://schoenbrodt.github.io/tag/academic/"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/tag/academic/"
                 />
   </url><url>
-    <loc>https://schoenbrodt.github.io/categories/</loc>
+    <loc>https://schoenbrodt.github.io/de/categories/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -68,11 +68,11 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://schoenbrodt.github.io/categories/"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/categories/"
                 />
   </url><url>
-    <loc>https://schoenbrodt.github.io/category/demo/</loc>
+    <loc>https://schoenbrodt.github.io/de/category/demo/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -82,11 +82,11 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://schoenbrodt.github.io/category/demo/"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/category/demo/"
                 />
   </url><url>
-    <loc>https://schoenbrodt.github.io/post/</loc>
+    <loc>https://schoenbrodt.github.io/de/post/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -96,11 +96,11 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://schoenbrodt.github.io/post/"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/post/"
                 />
   </url><url>
-    <loc>https://schoenbrodt.github.io/tags/</loc>
+    <loc>https://schoenbrodt.github.io/de/tags/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -110,11 +110,11 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://schoenbrodt.github.io/tags/"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/tags/"
                 />
   </url><url>
-    <loc>https://schoenbrodt.github.io/post/getting-started/</loc>
+    <loc>https://schoenbrodt.github.io/de/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -124,11 +124,11 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://schoenbrodt.github.io/post/getting-started/"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/post/getting-started/"
                 />
   </url><url>
-    <loc>https://schoenbrodt.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
+    <loc>https://schoenbrodt.github.io/de/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -138,11 +138,11 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://schoenbrodt.github.io/tag/%E5%BC%80%E6%BA%90/"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/tag/%E5%BC%80%E6%BA%90/"
                 />
   </url><url>
-    <loc>https://schoenbrodt.github.io/category/%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://schoenbrodt.github.io/de/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -152,11 +152,11 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://schoenbrodt.github.io/category/%E6%95%99%E7%A8%8B/"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/category/%E6%95%99%E7%A8%8B/"
                 />
   </url><url>
-    <loc>https://schoenbrodt.github.io/post/writing-technical-content/</loc>
+    <loc>https://schoenbrodt.github.io/de/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -166,11 +166,11 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://schoenbrodt.github.io/post/writing-technical-content/"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/post/writing-technical-content/"
                 />
   </url><url>
-    <loc>https://schoenbrodt.github.io/publication-type/3/</loc>
+    <loc>https://schoenbrodt.github.io/de/publication-type/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -180,11 +180,11 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://schoenbrodt.github.io/publication-type/3/"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/publication-type/3/"
                 />
   </url><url>
-    <loc>https://schoenbrodt.github.io/publication/preprint/</loc>
+    <loc>https://schoenbrodt.github.io/de/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -194,11 +194,11 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://schoenbrodt.github.io/publication/preprint/"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/publication/preprint/"
                 />
   </url><url>
-    <loc>https://schoenbrodt.github.io/publication_types/</loc>
+    <loc>https://schoenbrodt.github.io/de/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -208,11 +208,11 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://schoenbrodt.github.io/publication_types/"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/publication_types/"
                 />
   </url><url>
-    <loc>https://schoenbrodt.github.io/publication/</loc>
+    <loc>https://schoenbrodt.github.io/de/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -222,11 +222,11 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://schoenbrodt.github.io/publication/"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/publication/"
                 />
   </url><url>
-    <loc>https://schoenbrodt.github.io/tag/source-themes/</loc>
+    <loc>https://schoenbrodt.github.io/de/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -236,11 +236,11 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://schoenbrodt.github.io/tag/source-themes/"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/tag/source-themes/"
                 />
   </url><url>
-    <loc>https://schoenbrodt.github.io/post/jupyter/</loc>
+    <loc>https://schoenbrodt.github.io/de/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -250,11 +250,11 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://schoenbrodt.github.io/post/jupyter/"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/post/jupyter/"
                 />
   </url><url>
-    <loc>https://schoenbrodt.github.io/slides/</loc>
+    <loc>https://schoenbrodt.github.io/de/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -264,11 +264,11 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://schoenbrodt.github.io/slides/"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/slides/"
                 />
   </url><url>
-    <loc>https://schoenbrodt.github.io/slides/example/</loc>
+    <loc>https://schoenbrodt.github.io/de/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -278,11 +278,11 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://schoenbrodt.github.io/slides/example/"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/slides/example/"
                 />
   </url><url>
-    <loc>https://schoenbrodt.github.io/tag/deep-learning/</loc>
+    <loc>https://schoenbrodt.github.io/de/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -292,11 +292,11 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://schoenbrodt.github.io/tag/deep-learning/"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/tag/deep-learning/"
                 />
   </url><url>
-    <loc>https://schoenbrodt.github.io/tag/demo/</loc>
+    <loc>https://schoenbrodt.github.io/de/tag/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -306,11 +306,11 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://schoenbrodt.github.io/tag/demo/"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/tag/demo/"
                 />
   </url><url>
-    <loc>https://schoenbrodt.github.io/project/example/</loc>
+    <loc>https://schoenbrodt.github.io/de/project/example/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -320,11 +320,11 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://schoenbrodt.github.io/project/example/"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/project/example/"
                 />
   </url><url>
-    <loc>https://schoenbrodt.github.io/project/external-project/</loc>
+    <loc>https://schoenbrodt.github.io/de/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -334,11 +334,11 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://schoenbrodt.github.io/project/external-project/"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/project/external-project/"
                 />
   </url><url>
-    <loc>https://schoenbrodt.github.io/project/</loc>
+    <loc>https://schoenbrodt.github.io/de/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -348,11 +348,11 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://schoenbrodt.github.io/project/"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/project/"
                 />
   </url><url>
-    <loc>https://schoenbrodt.github.io/publication-type/2/</loc>
+    <loc>https://schoenbrodt.github.io/de/publication-type/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -362,11 +362,11 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://schoenbrodt.github.io/publication-type/2/"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/publication-type/2/"
                 />
   </url><url>
-    <loc>https://schoenbrodt.github.io/publication/journal-article/</loc>
+    <loc>https://schoenbrodt.github.io/de/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -376,11 +376,11 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://schoenbrodt.github.io/publication/journal-article/"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/publication/journal-article/"
                 />
   </url><url>
-    <loc>https://schoenbrodt.github.io/publication-type/1/</loc>
+    <loc>https://schoenbrodt.github.io/de/publication-type/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -390,11 +390,11 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://schoenbrodt.github.io/publication-type/1/"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/publication-type/1/"
                 />
   </url><url>
-    <loc>https://schoenbrodt.github.io/publication/conference-paper/</loc>
+    <loc>https://schoenbrodt.github.io/de/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -404,11 +404,11 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://schoenbrodt.github.io/publication/conference-paper/"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/publication/conference-paper/"
                 />
   </url><url>
-    <loc>https://schoenbrodt.github.io/admin/</loc>
+    <loc>https://schoenbrodt.github.io/de/admin/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -417,8 +417,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://schoenbrodt.github.io/admin/"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/admin/"
                 />
   </url>
 </urlset>
