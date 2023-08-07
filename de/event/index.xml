@@ -1,35 +1,207 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Letzte &amp; zukünftige Vorträge | Schönbrodt</title>
+    <title>Vorträge | Sarah Schönbrodt</title>
     <link>https://schoenbrodt.github.io/de/event/</link>
       <atom:link href="https://schoenbrodt.github.io/de/event/index.xml" rel="self" type="application/rss+xml" />
-    <description>Letzte &amp; zukünftige Vorträge</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>de-DE</language><lastBuildDate>Tue, 06 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <description>Vorträge</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de-DE</language><lastBuildDate>Tue, 11 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://schoenbrodt.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Letzte &amp; zukünftige Vorträge</title>
+      <title>Vorträge</title>
       <link>https://schoenbrodt.github.io/de/event/</link>
     </image>
+    
+    <item>
+      <title>AI education as a starting point for interdisciplinary STEM projects</title>
+      <link>https://schoenbrodt.github.io/de/talk/ai-education-as-a-starting-point-for-interdisciplinary-stem-projects/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://schoenbrodt.github.io/de/talk/ai-education-as-a-starting-point-for-interdisciplinary-stem-projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opening the Blackbox - Ein allgemeinverständlicher Einblick in die Grundlagen der KI für alle Schulfächer</title>
+      <link>https://schoenbrodt.github.io/de/talk/opening-the-blackbox-ein-allgemeinverstandlicher-einblick-in-die-grundlagen-der-ki-fur-alle-schulfacher/</link>
+      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://schoenbrodt.github.io/de/talk/opening-the-blackbox-ein-allgemeinverstandlicher-einblick-in-die-grundlagen-der-ki-fur-alle-schulfacher/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
     
     <item>
       <title>Künstliche Intelligenz als Gegenstand des Mathematikunterrichts</title>
       <link>https://schoenbrodt.github.io/de/talk/kunstliche-intelligenz-als-gegenstand-des-mathematikunterrichts/</link>
       <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://schoenbrodt.github.io/de/talk/kunstliche-intelligenz-als-gegenstand-des-mathematikunterrichts/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
-</description>
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+ --&gt;</description>
+    </item>
+    
+    <item>
+      <title>How much mathematical modeling is in AI?</title>
+      <link>https://schoenbrodt.github.io/de/talk/how-much-mathematical-modeling-is-in-ai/</link>
+      <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://schoenbrodt.github.io/de/talk/how-much-mathematical-modeling-is-in-ai/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+ --&gt;</description>
+    </item>
+    
+    <item>
+      <title>AI education as a starting point for interdisciplinary STEM projects</title>
+      <link>https://schoenbrodt.github.io/de/talk/ai-education-as-a-starting-point-for-interdisciplinary-stem-projects/</link>
+      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://schoenbrodt.github.io/de/talk/ai-education-as-a-starting-point-for-interdisciplinary-stem-projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathematische Grundlagen der Künstlichen Intelligenz im Schulunterricht – Chancen für eine Bereicherung des Unterrichts in linearer Algebra</title>
+      <link>https://schoenbrodt.github.io/de/talk/mathematische-grundlagen-der-kunstlichen-intelligenz-im-schulunterricht-chancen-fur-eine-bereicherung-des-unterrichts-in-linearer-algebra/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://schoenbrodt.github.io/de/talk/mathematische-grundlagen-der-kunstlichen-intelligenz-im-schulunterricht-chancen-fur-eine-bereicherung-des-unterrichts-in-linearer-algebra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Klassifizierungsprobleme - Maschinelles Lernen und KI Mathematikunterricht</title>
+      <link>https://schoenbrodt.github.io/de/talk/klassifizierungsprobleme-maschinelles-lernen-und-ki-mathematikunterricht/</link>
+      <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://schoenbrodt.github.io/de/talk/klassifizierungsprobleme-maschinelles-lernen-und-ki-mathematikunterricht/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathematische Grundlagen von Maschinellem Lernen und KI im Schulunterricht!? – Perspektiven aus Sicht der Mathematikdidaktik</title>
+      <link>https://schoenbrodt.github.io/de/talk/mathematische-grundlagen-von-maschinellem-lernen-und-ki-im-schulunterricht-perspektiven-aus-sicht-der-mathematikdidaktik/</link>
+      <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://schoenbrodt.github.io/de/talk/mathematische-grundlagen-von-maschinellem-lernen-und-ki-im-schulunterricht-perspektiven-aus-sicht-der-mathematikdidaktik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Authentische Modellierung am Beispiel von Data Science und Künstlicher Intelligenz</title>
+      <link>https://schoenbrodt.github.io/de/talk/authentische-modellierung-am-beispiel-von-data-science-und-kunstlicher-intelligenz/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://schoenbrodt.github.io/de/talk/authentische-modellierung-am-beispiel-von-data-science-und-kunstlicher-intelligenz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science &amp; Machine Learning in Mathematics Education – High-school students working on the Netflix Prize</title>
+      <link>https://schoenbrodt.github.io/de/talk/data-science-machine-learning-in-mathematics-education-high-school-students-working-on-the-netflix-prize/</link>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://schoenbrodt.github.io/de/talk/data-science-machine-learning-in-mathematics-education-high-school-students-working-on-the-netflix-prize/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digitales Lernmaterial zur Netflix Challenge (Sek. II)</title>
+      <link>https://schoenbrodt.github.io/de/talk/digitales-lernmaterial-zur-netflix-challenge-sek.-ii/</link>
+      <pubDate>Sun, 03 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://schoenbrodt.github.io/de/talk/digitales-lernmaterial-zur-netflix-challenge-sek.-ii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digitales Lernmaterial zur Netflix Challenge – Data Science &amp; Maschinelles Lernen im Mathematikunterricht?</title>
+      <link>https://schoenbrodt.github.io/de/talk/digitales-lernmaterial-zur-netflix-challenge-data-science-maschinelles-lernen-im-mathematikunterricht/</link>
+      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://schoenbrodt.github.io/de/talk/digitales-lernmaterial-zur-netflix-challenge-data-science-maschinelles-lernen-im-mathematikunterricht/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solarenergieforschung mit Schüler/innen im Rahmen eines computergestützten Projekttages – Optimierung der Spiegel in einem Fresnelkraftwerk (Sek I/II)</title>
+      <link>https://schoenbrodt.github.io/de/talk/solarenergieforschung-mit-schuler/innen-im-rahmen-eines-computergestutzten-projekttages-optimierung-der-spiegel-in-einem-fresnelkraftwerk-sek-i/ii/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://schoenbrodt.github.io/de/talk/solarenergieforschung-mit-schuler/innen-im-rahmen-eines-computergestutzten-projekttages-optimierung-der-spiegel-in-einem-fresnelkraftwerk-sek-i/ii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching and training concept CAMMP – Supporting the establishment of mathematical modeling in school teaching in a sustainable way by implementing a teacher training concept</title>
+      <link>https://schoenbrodt.github.io/de/talk/teaching-and-training-concept-cammp-supporting-the-establishment-of-mathematical-modeling-in-school-teaching-in-a-sustainable-way-by-implementing-a-teacher-training-concept/</link>
+      <pubDate>Tue, 08 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://schoenbrodt.github.io/de/talk/teaching-and-training-concept-cammp-supporting-the-establishment-of-mathematical-modeling-in-school-teaching-in-a-sustainable-way-by-implementing-a-teacher-training-concept/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solarenergieforschung mit Schüler/innen im Rahmen eines computergestützten Projekttages – Optimierung der Spiegel in einem Fresnelkraftwerk (Sek I/II)</title>
+      <link>https://schoenbrodt.github.io/de/talk/solarenergieforschung-mit-schuler/innen-im-rahmen-eines-computergestutzten-projekttages-optimierung-der-spiegel-in-einem-fresnelkraftwerk-sek-i/ii/</link>
+      <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://schoenbrodt.github.io/de/talk/solarenergieforschung-mit-schuler/innen-im-rahmen-eines-computergestutzten-projekttages-optimierung-der-spiegel-in-einem-fresnelkraftwerk-sek-i/ii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perspectives on teaching the Mathematics of Machine Learning to high-school students</title>
+      <link>https://schoenbrodt.github.io/de/talk/perspectives-on-teaching-the-mathematics-of-machine-learning-to-high-school-students/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://schoenbrodt.github.io/de/talk/perspectives-on-teaching-the-mathematics-of-machine-learning-to-high-school-students/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chancen für Machine Learning im Mathematikunterricht (Sek. II)</title>
+      <link>https://schoenbrodt.github.io/de/talk/chancen-fur-machine-learning-im-mathematikunterricht-sek.-ii/</link>
+      <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://schoenbrodt.github.io/de/talk/chancen-fur-machine-learning-im-mathematikunterricht-sek.-ii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Komplexe Modellierung - Chancen für Maschinelles Lernen im Mathematikunterricht</title>
+      <link>https://schoenbrodt.github.io/de/talk/komplexe-modellierung-chancen-fur-maschinelles-lernen-im-mathematikunterricht/</link>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://schoenbrodt.github.io/de/talk/komplexe-modellierung-chancen-fur-maschinelles-lernen-im-mathematikunterricht/</guid>
+      <description></description>
     </item>
     
   </channel>

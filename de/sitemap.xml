@@ -2,6 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://schoenbrodt.github.io/de/talk/ai-education-as-a-starting-point-for-interdisciplinary-stem-projects/</loc>
+    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://schoenbrodt.github.io/en/talk/ai-education-as-a-starting-point-for-interdisciplinary-stem-projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/talk/ai-education-as-a-starting-point-for-interdisciplinary-stem-projects/"
+                />
+  </url><url>
+    <loc>https://schoenbrodt.github.io/de/event/</loc>
+    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://schoenbrodt.github.io/en/event/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/event/"
+                />
+  </url><url>
+    <loc>https://schoenbrodt.github.io/de/talk/opening-the-blackbox-ein-allgemeinverstandlicher-einblick-in-die-grundlagen-der-ki-fur-alle-schulfacher/</loc>
+    <lastmod>2023-06-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://schoenbrodt.github.io/en/talk/opening-the-blackbox-ein-allgemeinverstandlicher-einblick-in-die-grundlagen-der-ki-fur-alle-schulfacher/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/talk/opening-the-blackbox-ein-allgemeinverstandlicher-einblick-in-die-grundlagen-der-ki-fur-alle-schulfacher/"
+                />
+  </url><url>
     <loc>https://schoenbrodt.github.io/de/talk/kunstliche-intelligenz-als-gegenstand-des-mathematikunterrichts/</loc>
     <lastmod>2023-06-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -16,18 +58,46 @@
                 href="https://schoenbrodt.github.io/de/talk/kunstliche-intelligenz-als-gegenstand-des-mathematikunterrichts/"
                 />
   </url><url>
-    <loc>https://schoenbrodt.github.io/de/event/</loc>
-    <lastmod>2023-06-06T00:00:00+00:00</lastmod>
+    <loc>https://schoenbrodt.github.io/de/talk/how-much-mathematical-modeling-is-in-ai/</loc>
+    <lastmod>2023-05-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://schoenbrodt.github.io/en/event/"
+                href="https://schoenbrodt.github.io/en/talk/how-much-mathematical-modeling-is-in-ai/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="https://schoenbrodt.github.io/de/event/"
+                href="https://schoenbrodt.github.io/de/talk/how-much-mathematical-modeling-is-in-ai/"
+                />
+  </url><url>
+    <loc>https://schoenbrodt.github.io/de/talk/ai-education-as-a-starting-point-for-interdisciplinary-stem-projects/</loc>
+    <lastmod>2023-03-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://schoenbrodt.github.io/en/talk/ai-education-as-a-starting-point-for-interdisciplinary-stem-projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/talk/ai-education-as-a-starting-point-for-interdisciplinary-stem-projects/"
+                />
+  </url><url>
+    <loc>https://schoenbrodt.github.io/de/talk/mathematische-grundlagen-der-kunstlichen-intelligenz-im-schulunterricht-chancen-fur-eine-bereicherung-des-unterrichts-in-linearer-algebra/</loc>
+    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://schoenbrodt.github.io/en/talk/mathematische-grundlagen-der-kunstlichen-intelligenz-im-schulunterricht-chancen-fur-eine-bereicherung-des-unterrichts-in-linearer-algebra/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/talk/mathematische-grundlagen-der-kunstlichen-intelligenz-im-schulunterricht-chancen-fur-eine-bereicherung-des-unterrichts-in-linearer-algebra/"
                 />
   </url><url>
     <loc>https://schoenbrodt.github.io/de/</loc>
@@ -42,6 +112,90 @@
                 rel="alternate"
                 hreflang="de-DE"
                 href="https://schoenbrodt.github.io/de/"
+                />
+  </url><url>
+    <loc>https://schoenbrodt.github.io/de/talk/klassifizierungsprobleme-maschinelles-lernen-und-ki-mathematikunterricht/</loc>
+    <lastmod>2022-09-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://schoenbrodt.github.io/en/talk/klassifizierungsprobleme-maschinelles-lernen-und-ki-mathematikunterricht/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/talk/klassifizierungsprobleme-maschinelles-lernen-und-ki-mathematikunterricht/"
+                />
+  </url><url>
+    <loc>https://schoenbrodt.github.io/de/talk/mathematische-grundlagen-von-maschinellem-lernen-und-ki-im-schulunterricht-perspektiven-aus-sicht-der-mathematikdidaktik/</loc>
+    <lastmod>2022-09-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://schoenbrodt.github.io/en/talk/mathematische-grundlagen-von-maschinellem-lernen-und-ki-im-schulunterricht-perspektiven-aus-sicht-der-mathematikdidaktik/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/talk/mathematische-grundlagen-von-maschinellem-lernen-und-ki-im-schulunterricht-perspektiven-aus-sicht-der-mathematikdidaktik/"
+                />
+  </url><url>
+    <loc>https://schoenbrodt.github.io/de/talk/authentische-modellierung-am-beispiel-von-data-science-und-kunstlicher-intelligenz/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://schoenbrodt.github.io/en/talk/authentische-modellierung-am-beispiel-von-data-science-und-kunstlicher-intelligenz/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/talk/authentische-modellierung-am-beispiel-von-data-science-und-kunstlicher-intelligenz/"
+                />
+  </url><url>
+    <loc>https://schoenbrodt.github.io/de/talk/data-science-machine-learning-in-mathematics-education-high-school-students-working-on-the-netflix-prize/</loc>
+    <lastmod>2022-02-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://schoenbrodt.github.io/en/talk/data-science-machine-learning-in-mathematics-education-high-school-students-working-on-the-netflix-prize/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/talk/data-science-machine-learning-in-mathematics-education-high-school-students-working-on-the-netflix-prize/"
+                />
+  </url><url>
+    <loc>https://schoenbrodt.github.io/de/talk/digitales-lernmaterial-zur-netflix-challenge-sek.-ii/</loc>
+    <lastmod>2021-10-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://schoenbrodt.github.io/en/talk/digitales-lernmaterial-zur-netflix-challenge-sek.-ii/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/talk/digitales-lernmaterial-zur-netflix-challenge-sek.-ii/"
+                />
+  </url><url>
+    <loc>https://schoenbrodt.github.io/de/talk/digitales-lernmaterial-zur-netflix-challenge-data-science-maschinelles-lernen-im-mathematikunterricht/</loc>
+    <lastmod>2021-03-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://schoenbrodt.github.io/en/talk/digitales-lernmaterial-zur-netflix-challenge-data-science-maschinelles-lernen-im-mathematikunterricht/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/talk/digitales-lernmaterial-zur-netflix-challenge-data-science-maschinelles-lernen-im-mathematikunterricht/"
                 />
   </url><url>
     <loc>https://schoenbrodt.github.io/de/tag/academic/</loc>
@@ -154,6 +308,62 @@
                 rel="alternate"
                 hreflang="de-DE"
                 href="https://schoenbrodt.github.io/de/category/%E6%95%99%E7%A8%8B/"
+                />
+  </url><url>
+    <loc>https://schoenbrodt.github.io/de/talk/solarenergieforschung-mit-schuler/innen-im-rahmen-eines-computergestutzten-projekttages-optimierung-der-spiegel-in-einem-fresnelkraftwerk-sek-i/ii/</loc>
+    <lastmod>2020-09-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://schoenbrodt.github.io/en/talk/solarenergieforschung-mit-schuler/innen-im-rahmen-eines-computergestutzten-projekttages-optimierung-der-spiegel-in-einem-fresnelkraftwerk-sek-i/ii/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/talk/solarenergieforschung-mit-schuler/innen-im-rahmen-eines-computergestutzten-projekttages-optimierung-der-spiegel-in-einem-fresnelkraftwerk-sek-i/ii/"
+                />
+  </url><url>
+    <loc>https://schoenbrodt.github.io/de/talk/teaching-and-training-concept-cammp-supporting-the-establishment-of-mathematical-modeling-in-school-teaching-in-a-sustainable-way-by-implementing-a-teacher-training-concept/</loc>
+    <lastmod>2019-10-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://schoenbrodt.github.io/en/talk/teaching-and-training-concept-cammp-supporting-the-establishment-of-mathematical-modeling-in-school-teaching-in-a-sustainable-way-by-implementing-a-teacher-training-concept/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/talk/teaching-and-training-concept-cammp-supporting-the-establishment-of-mathematical-modeling-in-school-teaching-in-a-sustainable-way-by-implementing-a-teacher-training-concept/"
+                />
+  </url><url>
+    <loc>https://schoenbrodt.github.io/de/talk/solarenergieforschung-mit-schuler/innen-im-rahmen-eines-computergestutzten-projekttages-optimierung-der-spiegel-in-einem-fresnelkraftwerk-sek-i/ii/</loc>
+    <lastmod>2019-09-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://schoenbrodt.github.io/en/talk/solarenergieforschung-mit-schuler/innen-im-rahmen-eines-computergestutzten-projekttages-optimierung-der-spiegel-in-einem-fresnelkraftwerk-sek-i/ii/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/talk/solarenergieforschung-mit-schuler/innen-im-rahmen-eines-computergestutzten-projekttages-optimierung-der-spiegel-in-einem-fresnelkraftwerk-sek-i/ii/"
+                />
+  </url><url>
+    <loc>https://schoenbrodt.github.io/de/talk/perspectives-on-teaching-the-mathematics-of-machine-learning-to-high-school-students/</loc>
+    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://schoenbrodt.github.io/en/talk/perspectives-on-teaching-the-mathematics-of-machine-learning-to-high-school-students/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/talk/perspectives-on-teaching-the-mathematics-of-machine-learning-to-high-school-students/"
                 />
   </url><url>
     <loc>https://schoenbrodt.github.io/de/post/writing-technical-content/</loc>
@@ -280,6 +490,34 @@
                 rel="alternate"
                 hreflang="de-DE"
                 href="https://schoenbrodt.github.io/de/slides/example/"
+                />
+  </url><url>
+    <loc>https://schoenbrodt.github.io/de/talk/chancen-fur-machine-learning-im-mathematikunterricht-sek.-ii/</loc>
+    <lastmod>2018-10-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://schoenbrodt.github.io/en/talk/chancen-fur-machine-learning-im-mathematikunterricht-sek.-ii/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/talk/chancen-fur-machine-learning-im-mathematikunterricht-sek.-ii/"
+                />
+  </url><url>
+    <loc>https://schoenbrodt.github.io/de/talk/komplexe-modellierung-chancen-fur-maschinelles-lernen-im-mathematikunterricht/</loc>
+    <lastmod>2018-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://schoenbrodt.github.io/en/talk/komplexe-modellierung-chancen-fur-maschinelles-lernen-im-mathematikunterricht/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/talk/komplexe-modellierung-chancen-fur-maschinelles-lernen-im-mathematikunterricht/"
                 />
   </url><url>
     <loc>https://schoenbrodt.github.io/de/tag/deep-learning/</loc>
