@@ -607,16 +607,6 @@
     <loc>https://schoenbrodt.github.io/en/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="https://schoenbrodt.github.io/de/publication/journal-article/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://schoenbrodt.github.io/en/publication/journal-article/"
-                />
   </url><url>
     <loc>https://schoenbrodt.github.io/en/publication-type/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
@@ -635,16 +625,6 @@
     <loc>https://schoenbrodt.github.io/en/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="https://schoenbrodt.github.io/de/publication/conference-paper/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://schoenbrodt.github.io/en/publication/conference-paper/"
-                />
   </url><url>
     <loc>https://schoenbrodt.github.io/en/admin/</loc>
     <changefreq>weekly</changefreq>
