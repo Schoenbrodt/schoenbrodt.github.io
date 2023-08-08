@@ -14,6 +14,62 @@
     
     <item>
       <title>AI education as a starting point for interdisciplinary STEM projects</title>
+      <link>https://schoenbrodt.github.io/de/publication/2023_cerme13_activityrecog/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://schoenbrodt.github.io/de/publication/2023_cerme13_activityrecog/</guid>
+      <description>&lt;!-- 
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>From school mathematics to artificial neural networks: Developing a mathematical model to predict life expectancy</title>
+      <link>https://schoenbrodt.github.io/de/publication/2023_cerme13_nns/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://schoenbrodt.github.io/de/publication/2023_cerme13_nns/</guid>
+      <description>&lt;!-- 
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AI education as a starting point for interdisciplinary STEM projects</title>
       <link>https://schoenbrodt.github.io/de/talk/ai-education-as-a-starting-point-for-interdisciplinary-stem-projects/</link>
       <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://schoenbrodt.github.io/de/talk/ai-education-as-a-starting-point-for-interdisciplinary-stem-projects/</guid>
@@ -69,34 +125,6 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://schoenbrodt.github.io/de/publication/2022_cerme12_paper/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://schoenbrodt.github.io/de/publication/2022_cerme12_paper/</guid>
-      <description>&lt;!-- 
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
       <title>How much mathematical modeling is in AI?</title>
       <link>https://schoenbrodt.github.io/de/talk/how-much-mathematical-modeling-is-in-ai/</link>
       <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
@@ -129,11 +157,119 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     </item>
     
     <item>
+      <title>Klassifizierungsprobleme: Maschinelles Lernen und KI im Mathematikunterricht</title>
+      <link>https://schoenbrodt.github.io/de/publication/2023_gdm_klassifizierung/</link>
+      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://schoenbrodt.github.io/de/publication/2023_gdm_klassifizierung/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Mathematische Grundlagen der Künstlichen Intelligenz im Schulunterricht – Chancen für eine Bereicherung des Unterrichts in linearer Algebra</title>
       <link>https://schoenbrodt.github.io/de/talk/mathematische-grundlagen-der-kunstlichen-intelligenz-im-schulunterricht-chancen-fur-eine-bereicherung-des-unterrichts-in-linearer-algebra/</link>
       <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://schoenbrodt.github.io/de/talk/mathematische-grundlagen-der-kunstlichen-intelligenz-im-schulunterricht-chancen-fur-eine-bereicherung-des-unterrichts-in-linearer-algebra/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Aufbau und Einsatzmöglichkeiten des Lehr- und Lernmaterials</title>
+      <link>https://schoenbrodt.github.io/de/publication/2022_cammpbook_einsatzmglk/</link>
+      <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://schoenbrodt.github.io/de/publication/2022_cammpbook_einsatzmglk/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Einführung</title>
+      <link>https://schoenbrodt.github.io/de/publication/2022_cammpbook_intro/</link>
+      <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://schoenbrodt.github.io/de/publication/2022_cammpbook_intro/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Erneuerbare Energien – Modellierung und Optimierung eines Solarkraftwerks</title>
+      <link>https://schoenbrodt.github.io/de/publication/2022_cammpbook_solar/</link>
+      <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://schoenbrodt.github.io/de/publication/2022_cammpbook_solar/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
     </item>
     
     <item>
@@ -161,19 +297,12 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     </item>
     
     <item>
-      <title>Data Science &amp; Machine Learning in Mathematics Education – High-school students working on the Netflix Prize</title>
-      <link>https://schoenbrodt.github.io/de/talk/data-science-machine-learning-in-mathematics-education-high-school-students-working-on-the-netflix-prize/</link>
-      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://schoenbrodt.github.io/de/talk/data-science-machine-learning-in-mathematics-education-high-school-students-working-on-the-netflix-prize/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mathematische Grundlagen der Künstlichen Intelligenz im Schulunterricht - Chancen für eine Bereicherung des Unterrichts in linearer Algebra</title>
-      <link>https://schoenbrodt.github.io/de/publication/2022_math_sem-kopie/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://schoenbrodt.github.io/de/publication/2022_math_sem-kopie/</guid>
+      <title>Data Science and Machine Learning in mathematics education: High-school students working on the Netflix Prize</title>
+      <link>https://schoenbrodt.github.io/de/publication/2022_cerme12_paper/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://schoenbrodt.github.io/de/publication/2022_cerme12_paper/</guid>
       <description>&lt;!-- 
+
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -198,7 +327,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
     <item>
       <title>Mathematische Grundlagen der Künstlichen Intelligenz im Schulunterricht - Chancen für eine Bereicherung des Unterrichts in linearer Algebra</title>
       <link>https://schoenbrodt.github.io/de/publication/2022_math_sem/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://schoenbrodt.github.io/de/publication/2022_math_sem/</guid>
       <description>&lt;!-- 
 
@@ -223,11 +352,154 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
+      <title>Digital Tools to Enable Collaborative Mathematical Modeling Online</title>
+      <link>https://schoenbrodt.github.io/de/publication/2022_msel/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://schoenbrodt.github.io/de/publication/2022_msel/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mathematische Modellierungswochen – auch online</title>
+      <link>https://schoenbrodt.github.io/de/publication/2022_dmw_mitteilungen/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://schoenbrodt.github.io/de/publication/2022_dmw_mitteilungen/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optimierungsprobleme in der mathematischen Modellierung: Grundlegende Aspekte und Chancen aus Sicht der Mathematikdidaktik – herausgestellt an aktuellen Problemen aus der Forschung zu künstlicher Intelligenz und erneuerbaren Energien</title>
+      <link>https://schoenbrodt.github.io/de/publication/2022_diss/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://schoenbrodt.github.io/de/publication/2022_diss/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Science &amp; Machine Learning in Mathematics Education – High-school students working on the Netflix Prize</title>
+      <link>https://schoenbrodt.github.io/de/talk/data-science-machine-learning-in-mathematics-education-high-school-students-working-on-the-netflix-prize/</link>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://schoenbrodt.github.io/de/talk/data-science-machine-learning-in-mathematics-education-high-school-students-working-on-the-netflix-prize/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Digitales Lernmaterial zur Netflix Challenge (Sek. II)</title>
       <link>https://schoenbrodt.github.io/de/talk/digitales-lernmaterial-zur-netflix-challenge-sek.-ii/</link>
       <pubDate>Sun, 03 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://schoenbrodt.github.io/de/talk/digitales-lernmaterial-zur-netflix-challenge-sek.-ii/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Authentische und relevante Modellierung mit Schülerinnen und Schülern an nur einem Tag?!</title>
+      <link>https://schoenbrodt.github.io/de/publication/2021_istron_cday/</link>
+      <pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://schoenbrodt.github.io/de/publication/2021_istron_cday/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Digitales Lernmaterial zur Netflix Challenge</title>
+      <link>https://schoenbrodt.github.io/de/publication/2021_netflix_gdm/</link>
+      <pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://schoenbrodt.github.io/de/publication/2021_netflix_gdm/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
     </item>
     
     <item>
@@ -324,6 +596,33 @@ Supplementary notes can be added here, including [code, math, and images](https:
       <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://schoenbrodt.github.io/de/talk/solarenergieforschung-mit-schuler/innen-im-rahmen-eines-computergestutzten-projekttages-optimierung-der-spiegel-in-einem-fresnelkraftwerk-sek-i/ii/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Schüler/innen forschen zu erneuerbaren Energien – Optimierung eines Solarkraftwerks</title>
+      <link>https://schoenbrodt.github.io/de/publication/2020_solar_gdm/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://schoenbrodt.github.io/de/publication/2020_solar_gdm/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
     </item>
     
     <item>
@@ -454,7 +753,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-423657891&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-368729514&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -464,7 +763,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-423657891&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-368729514&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -759,6 +1058,33 @@ Crash --&gt; [*]
     </item>
     
     <item>
+      <title>Maschinelle Lernmethoden für Klassifizierungsprobleme – Perspektiven für die mathematische Modellierung mit Schülerinnen und Schülern</title>
+      <link>https://schoenbrodt.github.io/de/publication/2019_springer_bestmasters/</link>
+      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://schoenbrodt.github.io/de/publication/2019_springer_bestmasters/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Display Jupyter Notebooks with Academic</title>
       <link>https://schoenbrodt.github.io/de/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
@@ -948,6 +1274,33 @@ $$&lt;/p&gt;
       <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
       <guid>https://schoenbrodt.github.io/de/talk/chancen-fur-machine-learning-im-mathematikunterricht-sek.-ii/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Wie funktioniert eigentlich GPS? – ein computergestützter Modellierungsworkshop</title>
+      <link>https://schoenbrodt.github.io/de/publication/2018_istron_gps/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://schoenbrodt.github.io/de/publication/2018_istron_gps/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
     </item>
     
     <item>
