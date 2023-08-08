@@ -290,7 +290,7 @@
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://schoenbrodt.github.io/de/publication-type/5/</loc>
+    <loc>https://schoenbrodt.github.io/de/publication-type/7/</loc>
     <lastmod>2022-03-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -527,6 +527,10 @@
                 hreflang="de-DE"
                 href="https://schoenbrodt.github.io/de/post/writing-technical-content/"
                 />
+  </url><url>
+    <loc>https://schoenbrodt.github.io/de/publication-type/5/</loc>
+    <lastmod>2019-03-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://schoenbrodt.github.io/de/publication/2019_springer_bestmasters/</loc>
     <lastmod>2019-03-18T00:00:00+00:00</lastmod>
