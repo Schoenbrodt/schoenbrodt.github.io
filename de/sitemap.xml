@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://schoenbrodt.github.io/de/publication-type/1/</loc>
+    <loc>https://schoenbrodt.github.io/de/publication-type/3/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://schoenbrodt.github.io/en/publication-type/1/"
+                href="https://schoenbrodt.github.io/en/publication-type/3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="https://schoenbrodt.github.io/de/publication-type/1/"
+                href="https://schoenbrodt.github.io/de/publication-type/3/"
                 />
   </url><url>
     <loc>https://schoenbrodt.github.io/de/publication/2023_cerme13_activityrecog/</loc>
@@ -164,8 +164,40 @@
                 href="https://schoenbrodt.github.io/de/talk/ai-education-as-a-starting-point-for-interdisciplinary-stem-projects/"
                 />
   </url><url>
+    <loc>https://schoenbrodt.github.io/de/publication-type/1/</loc>
+    <lastmod>2023-01-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://schoenbrodt.github.io/en/publication-type/1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/publication-type/1/"
+                />
+  </url><url>
     <loc>https://schoenbrodt.github.io/de/publication/2023_gdm_klassifizierung/</loc>
     <lastmod>2023-01-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://schoenbrodt.github.io/de/publication-type/2/</loc>
+    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://schoenbrodt.github.io/en/publication-type/2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/publication-type/2/"
+                />
+  </url><url>
+    <loc>https://schoenbrodt.github.io/de/publication/2022_math_sem/</loc>
+    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://schoenbrodt.github.io/de/talk/mathematische-grundlagen-der-kunstlichen-intelligenz-im-schulunterricht-chancen-fur-eine-bereicherung-des-unterrichts-in-linearer-algebra/</loc>
@@ -254,25 +286,7 @@
                 href="https://schoenbrodt.github.io/de/talk/authentische-modellierung-am-beispiel-von-data-science-und-kunstlicher-intelligenz/"
                 />
   </url><url>
-    <loc>https://schoenbrodt.github.io/de/publication-type/2/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://schoenbrodt.github.io/en/publication-type/2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="https://schoenbrodt.github.io/de/publication-type/2/"
-                />
-  </url><url>
     <loc>https://schoenbrodt.github.io/de/publication/2022_cerme12_paper/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://schoenbrodt.github.io/de/publication/2022_math_sem/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

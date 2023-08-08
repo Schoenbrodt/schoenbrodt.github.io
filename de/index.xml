@@ -184,6 +184,33 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
+      <title>Mathematische Grundlagen der Künstlichen Intelligenz im Schulunterricht - Chancen für eine Bereicherung des Unterrichts in linearer Algebra</title>
+      <link>https://schoenbrodt.github.io/de/publication/2022_math_sem/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://schoenbrodt.github.io/de/publication/2022_math_sem/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Mathematische Grundlagen der Künstlichen Intelligenz im Schulunterricht – Chancen für eine Bereicherung des Unterrichts in linearer Algebra</title>
       <link>https://schoenbrodt.github.io/de/talk/mathematische-grundlagen-der-kunstlichen-intelligenz-im-schulunterricht-chancen-fur-eine-bereicherung-des-unterrichts-in-linearer-algebra/</link>
       <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
@@ -303,33 +330,6 @@ Supplementary notes can be added here, including [code, math, and images](https:
       <guid>https://schoenbrodt.github.io/de/publication/2022_cerme12_paper/</guid>
       <description>&lt;!-- 
 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mathematische Grundlagen der Künstlichen Intelligenz im Schulunterricht - Chancen für eine Bereicherung des Unterrichts in linearer Algebra</title>
-      <link>https://schoenbrodt.github.io/de/publication/2022_math_sem/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://schoenbrodt.github.io/de/publication/2022_math_sem/</guid>
-      <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -753,7 +753,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-478156932&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-178326594&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -763,7 +763,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-478156932&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-178326594&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
