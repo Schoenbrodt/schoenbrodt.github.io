@@ -149,10 +149,10 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     </item>
     
     <item>
-      <title>AI education as a starting point for interdisciplinary STEM projects</title>
-      <link>https://schoenbrodt.github.io/de/talk/ai-education-as-a-starting-point-for-interdisciplinary-stem-projects/</link>
+      <title>AI education as a starting point for STEM projects</title>
+      <link>https://schoenbrodt.github.io/de/talk/ai-education-as-a-starting-point-for-stem-projects/</link>
       <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://schoenbrodt.github.io/de/talk/ai-education-as-a-starting-point-for-interdisciplinary-stem-projects/</guid>
+      <guid>https://schoenbrodt.github.io/de/talk/ai-education-as-a-starting-point-for-stem-projects/</guid>
       <description></description>
     </item>
     
@@ -753,7 +753,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-583921764&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-432516978&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -763,7 +763,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-583921764&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-432516978&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
