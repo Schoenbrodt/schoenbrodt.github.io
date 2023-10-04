@@ -5,12 +5,20 @@
     <link>https://schoenbrodt.github.io/de/event/</link>
       <atom:link href="https://schoenbrodt.github.io/de/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Vorträge</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>de-DE</language><lastBuildDate>Thu, 21 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de-DE</language><lastBuildDate>Mon, 20 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://schoenbrodt.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Vorträge</title>
       <link>https://schoenbrodt.github.io/de/event/</link>
     </image>
+    
+    <item>
+      <title>KI auf dem Vormarsch – Potenziale für die Schule</title>
+      <link>https://schoenbrodt.github.io/de/talk/ki-auf-dem-vormarsch-potenziale-fur-die-schule/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://schoenbrodt.github.io/de/talk/ki-auf-dem-vormarsch-potenziale-fur-die-schule/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mathematische Modellierung im Kontext von KI und Data Science</title>

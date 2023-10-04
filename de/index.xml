@@ -69,6 +69,14 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
+      <title>KI auf dem Vormarsch – Potenziale für die Schule</title>
+      <link>https://schoenbrodt.github.io/de/talk/ki-auf-dem-vormarsch-potenziale-fur-die-schule/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://schoenbrodt.github.io/de/talk/ki-auf-dem-vormarsch-potenziale-fur-die-schule/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mathematische Modellierung im Kontext von KI und Data Science</title>
       <link>https://schoenbrodt.github.io/de/talk/mathematische-modellierung-im-kontext-von-ki-und-data-science/</link>
       <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
@@ -761,7 +769,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-871634259&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-657489132&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -771,7 +779,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-871634259&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-657489132&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
