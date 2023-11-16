@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://schoenbrodt.github.io/de/talk/ki-bildung-in-der-schule-theoretische-perspektiven-und-konzepte-fur-den-unterricht/</loc>
+    <lastmod>2024-01-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://schoenbrodt.github.io/en/talk/ai-education-in-school-theoretical-perspectives-and-concepts-for-teaching/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/talk/ki-bildung-in-der-schule-theoretische-perspektiven-und-konzepte-fur-den-unterricht/"
+                />
+  </url><url>
+    <loc>https://schoenbrodt.github.io/de/event/</loc>
+    <lastmod>2024-01-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://schoenbrodt.github.io/en/event/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://schoenbrodt.github.io/de/event/"
+                />
+  </url><url>
     <loc>https://schoenbrodt.github.io/de/publication-type/3/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -112,20 +140,6 @@
                 rel="alternate"
                 hreflang="de-DE"
                 href="https://schoenbrodt.github.io/de/talk/ki-auf-dem-vormarsch-potenziale-fur-die-schule/"
-                />
-  </url><url>
-    <loc>https://schoenbrodt.github.io/de/event/</loc>
-    <lastmod>2023-11-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://schoenbrodt.github.io/en/event/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="https://schoenbrodt.github.io/de/event/"
                 />
   </url><url>
     <loc>https://schoenbrodt.github.io/de/talk/mathematische-modellierung-im-kontext-von-ki-und-data-science/</loc>

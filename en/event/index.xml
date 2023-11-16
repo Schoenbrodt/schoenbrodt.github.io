@@ -5,12 +5,20 @@
     <link>https://schoenbrodt.github.io/en/event/</link>
       <atom:link href="https://schoenbrodt.github.io/en/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 16 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://schoenbrodt.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://schoenbrodt.github.io/en/event/</link>
     </image>
+    
+    <item>
+      <title>AI Education in School – Theoretical Perspectives and Concepts for Teaching</title>
+      <link>https://schoenbrodt.github.io/en/talk/ai-education-in-school-theoretical-perspectives-and-concepts-for-teaching/</link>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://schoenbrodt.github.io/en/talk/ai-education-in-school-theoretical-perspectives-and-concepts-for-teaching/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AI on the rise - potential for schools</title>

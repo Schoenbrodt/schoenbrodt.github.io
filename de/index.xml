@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>KI-Bildung in der Schule – theoretische Perspektiven und Konzepte für den Unterricht</title>
+      <link>https://schoenbrodt.github.io/de/talk/ki-bildung-in-der-schule-theoretische-perspektiven-und-konzepte-fur-den-unterricht/</link>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://schoenbrodt.github.io/de/talk/ki-bildung-in-der-schule-theoretische-perspektiven-und-konzepte-fur-den-unterricht/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>AI education as a starting point for interdisciplinary STEM projects</title>
       <link>https://schoenbrodt.github.io/de/publication/2023_cerme13_activityrecog/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
@@ -769,7 +777,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-421968375&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-176825493&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -779,7 +787,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-421968375&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-176825493&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
