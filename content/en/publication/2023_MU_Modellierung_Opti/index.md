@@ -22,7 +22,7 @@ publishDate: "2024-01-10T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Der Mathematikunterricht*. Friedrich-Verlag, 70(1), 35-44 (in press)" # "*Journal of Source Themes, 1*(1)"
+publication: "*Der Mathematikunterricht*. Friedrich-Verlag, 70(1), 35-44" # "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
 #abstract: '...'
@@ -37,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-#url_pdf: 'https://eldorado.tu-dortmund.de/bitstream/2003/41583/1/BzMU22_165.pdf'
+url_pdf: 'https://www.friedrich-verlag.de/shop/modellieren-anwendungen-realitaetsbezug-524229'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: ''
 # url_poster: ''
