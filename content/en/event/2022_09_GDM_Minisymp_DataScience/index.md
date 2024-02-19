@@ -2,12 +2,12 @@
 
 title: Klassifizierungsprobleme - Maschinelles Lernen und KI Mathematikunterricht
 
-event: Minisymposium Data Science auf der GDM 2022
+event: Minisymposium Data Science at the GDM 2022
 #event_url: https://www.scc.kit.edu/forschung/IAMIT2023.php
 
 location: Frankfurt, Germany
 
-summary:   Vortrag im Minisymposium Data Science auf der GDM 2022
+summary: Talk at the Minisymposium Data Science at the GDM 2022
 abstract: '
 Zahlreiche Anwendungen aus unserem Alltag basieren auf Klassifizierungsproblemen. Zum Lösen
 dieser Probleme kommen Methoden aus einem viel diskutierten Bereich zum Einsatz: KI
