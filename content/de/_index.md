@@ -198,7 +198,11 @@ sections:
                <li>Schmidt, L. (2019). Machine Learning - automatische Bilderkennung mit Mathematik?! Ein Lehr-Lern-Modul im Rahmen eines mathematischen Modellierungstages für Schülerinnen und Schüler der Sekundarstufe II, Masterarbeit, RWTH Aachen.</li>
                </ul>
               <h2>Aus- und Fortbildung von Lehrkräften</h2>
-              <h3>2023:</h3> 
+              <h3>2024</h3> 
+              <ul>
+               <li><b>KI-Bildung im Mathematikunterricht,</b> Workshop auf dem 34. Schweizerischen Tag über Mathematik und Unterricht 2024, Zürich, September 2024</li>
+               </ul>
+              <h3>2023</h3> 
                <ul>
                <li><b>Moderne Anwendungen der Mathematik computergestützt erarbeiten,</b> Workshop auf dem Lehrkräftetag der ISTRON-Herbsttagung, Wien, September 2023</li>
                <li><b>Opening the Blackbox - Ein allgemeinverständlicher Einblick in die Grundlagen der KI für alle Schulfächer,</b> eingeladener Vortrag im Rahmen der Fortbilungsreihe Chancen & Risiken der digitalen Transformation von ZSL und ZLB, Karlsruhe, Juni 2023</li>
@@ -221,7 +225,7 @@ sections:
                <li><b>Solarenergieforschung mit Schüler/innen im Rahmen eines computergestützten Projekttages (Sek I/II),</b> Vortrag auf dem Lehrkräftetage der ISTRON-Herbsttagung, Berlin, September 2019</li>
                <li><b>Chancen für Machine Learning im Mathematikunterricht (Sek. II),</b> Vortrag auf dem Lehrkräftetage der ISTRON-Herbsttagung, Würzburg, Oktober 2018  </li>
                </ul>
-               <h2>Schulprojekte</h2>
+               <h2>Schulprojekte (Auswahl)</h2>
                <ul>
                <li><b>09-12/2022:</b> Gestaltung und Durchführung des Projektkurses <a href="https://www.scc.kit.edu/forschung/16168.php">Mädels machen MI(NT) - Mit Mathe und KI reale Probleme lösen</a>, Karlsruhe</li>
                <li><b>SoSe 21:</b> Gestaltung und Durchführung des <a href="https://www.scc.kit.edu/forschung/14727.php">Schnupperkurses Mathematik des KIT</a> </li>

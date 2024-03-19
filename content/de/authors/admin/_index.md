@@ -19,7 +19,7 @@ role: Assistenzprofessorin @ Universität Salzburg
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Paris Lodron Universität Salzburg
-    url: https://www.plus.ac.at/
+    url: https://www.plus.ac.at/mathematik/fachbereich/team/schoenbrodt-sarah/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Forschung im Bereich Mathematikdidaktik und KI-Bildung
@@ -27,7 +27,7 @@ bio: Forschung im Bereich Mathematikdidaktik und KI-Bildung
 # Interests to show in About widget
 interests:
   - Didaktik der Mathematik
-  - Bildung in KI und Data Science
+  - Bildung über KI und Data Science
   - MINT-Bildung
 
 # Education to show in About widget
@@ -36,7 +36,7 @@ education:
     - course: Promotion in Mathematikdidaktik 
       institution: Karlsruher Institut für Technologie
       year: 2022
-    - course: M.Ed. Lehramt Matheamtik und Chemie
+    - course: M.Ed. Lehramt Mathematik und Chemie
       institution: RWTH Aachen University
       year: 2018
     - course: B.Sc. Lehramt Mathematik und Chemie
@@ -84,8 +84,8 @@ email: ''
 highlight_name: true
 ---
 
-Ich bin Assistenzprofessorin für Mathematikdidaktik an der Universität Salzburg. Meine Forschungsinteressen liegen in der Didaktik der mathematischen Modellierung und im Bereich Bildung zu KI und Data Science.<br>
+Ich bin Assistenzprofessorin für Mathematikdidaktik an der Universität Salzburg. Meine Forschungsinteressen liegen in der Didaktik der mathematischen Modellierung und im Bereich Bildung über KI und Data Science.<br>
 
-Im Rahmen des Schüler:innenprogramms <a href="https://www.cammp.online/">CAMMP</a> entwickle ich innovative Materialien und Konzepte für den Mathematikunterricht. Zudem bin ich Geschäftsführerin der gemeinnützigen Initiative <a href="http://ki-macht-schule.de">KI macht Schule</a>, welche Bildung zu KI und maschinellem Lernen in deutschsprachige Schulen bringt! 
+Im Rahmen des Schüler:innenprogramms <a href="https://www.cammp.online/">CAMMP</a> entwickle ich innovative Materialien und Konzepte für den Mathematikunterricht. Zudem bin ich Geschäftsführerin der gemeinnützigen Initiative <a href="http://ki-macht-schule.de">KI macht Schule</a>, welche Bildung über KI und maschinellem Lernen in deutschsprachige Schulen bringt! 
 
 {style="text-align: justify;"}
