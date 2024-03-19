@@ -84,8 +84,8 @@ email: ''
 highlight_name: true
 ---
 
-Ich bin Assistenzprofessorin für Mathematikdidaktik an der Universität Salzburg. Meine Forschungsinteressen liegen in der Didaktik der mathematischen Modellierung und im Bereich Bildung über KI und Data Science.<br>
+Ich bin Assistenzprofessorin für Mathematikdidaktik an der Universität Salzburg. Meine Forschungsinteressen liegen in der Didaktik der Mathematik (insbesondere mathematische Modellierung) und im Bereich Bildung über KI und Data Science.<br>
 
-Im Rahmen des Schüler:innenprogramms <a href="https://www.cammp.online/">CAMMP</a> entwickle ich innovative Materialien und Konzepte für den Mathematikunterricht. Zudem bin ich Geschäftsführerin der gemeinnützigen Initiative <a href="http://ki-macht-schule.de">KI macht Schule</a>, welche Bildung über KI und maschinellem Lernen in deutschsprachige Schulen bringt! 
+Im Rahmen des Schüler:innenprogramms <a href="https://www.cammp.online/">CAMMP</a> entwickle ich innovative Materialien und Konzepte für den Mathematikunterricht. Zudem bin ich Geschäftsführerin der gemeinnützigen Initiative <a href="http://ki-macht-schule.de">KI macht Schule</a>, welche Bildung über KI und maschinelles Lernen in deutschsprachige Schulen bringt! 
 
 {style="text-align: justify;"}
