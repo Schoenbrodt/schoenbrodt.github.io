@@ -24,9 +24,9 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Assistant Professor
+        - title: Assistant Professor (Tenure Track)
           company: University of Salzburg
-          company_url: 'https://www.plus.ac.at/?lang=en'
+          company_url: 'https://www.plus.ac.at/mathematics/department/staff/schoenbrodt-sarah/?lang=en'
           company_logo: Logo_PLUS
           location: Salzburg, Austria
           date_start: '2023-11-01'
