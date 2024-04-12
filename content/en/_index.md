@@ -193,7 +193,15 @@ sections:
               <li>Hoeffer, K. (2020). Development of Teaching Material on Solar Energy within an Interdisciplinary Mathematical Modeling Project, Bachelor's Thesis, KIT.</li>
               <li>Schmidt, L. (2019). Machine Learning - Automatic Image Recognition with Mathematics?! A Teaching-Learning Module in the Context of a Mathematical Modeling Day for Upper Secondary Students, Master's Thesis, RWTH Aachen.</li>
               </ul>
-              <h2>Teacher Training and Professional Development</h2>
+    design:
+      columns: '2'
+
+  - block: markdown # https://wowchemy.com/blocks/markdown/
+    id: outreach
+    content:
+        title: Outreach
+        subtitle: Teacher Trainings and School Projects
+        text:               <h2>Teacher Training and Professional Development</h2>
               <h3>2023</h3>
               <ul>
               <li><b>Exploring Modern Applications of Mathematics through Computer-Aided Materials,</b> Workshop at the Teachers Day of the ISTRON Conference, Vienna, September 2023</li>

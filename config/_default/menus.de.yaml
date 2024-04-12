@@ -22,6 +22,9 @@ main:
   - name: Lehre
     url: '#teaching'
     weight: 50
+  - name: Outreach
+    url: '#outreach'
+    weight: 60
   #- name: Kontakt
   #  url: '#contact'
   #  weight: 50

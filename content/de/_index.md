@@ -53,13 +53,6 @@ sections:
           date_start: '2019-05-01'
           date_end: '2022-02-23'
         # #  description: Taught electronic engineering and researched semiconductor physics.
-        - title: Auslandssemester
-          company: Universidad Nacional Autónoma de México
-          company_url: 'https://www.unam.mx/'
-          # company_logo: Escudo-UNAM-escalable
-          location: Mexico City
-          date_start: '2016-08-01'
-          date_end: '2017-01-30'
         - title: Wissenschaftliche Mitarbeiterin
           company: RWTH Aachen, Lehrstuhl II für Mathematik 
           company_url: 'https://www.rwth-aachen.de/'
@@ -73,6 +66,13 @@ sections:
           location: Aachen, Deutschland
           date_start: '2017-02-01'
           date_end: '2017-09-30'
+        - title: Auslandssemester
+          company: Universidad Nacional Autónoma de México
+          company_url: 'https://www.unam.mx/'
+          # company_logo: Escudo-UNAM-escalable
+          location: Mexico City
+          date_start: '2016-08-01'
+          date_end: '2017-01-30'
         - title: Praktikum am Colegio Humboldt
           company: Colegio Humboldt 
           company_url: https://www.humboldt.ed.cr/?lang=de
@@ -197,10 +197,19 @@ sections:
                <li>Hoeffer, K. (2020).  Entwicklung von Unterrichtsmaterial zum Thema Solarenergie im Rahmen eines interdisziplinären mathematischen Modellierungsprojektes, Bachelorarbeit, KIT.</li>
                <li>Schmidt, L. (2019). Machine Learning - automatische Bilderkennung mit Mathematik?! Ein Lehr-Lern-Modul im Rahmen eines mathematischen Modellierungstages für Schülerinnen und Schüler der Sekundarstufe II, Masterarbeit, RWTH Aachen.</li>
                </ul>
-              <h2>Aus- und Fortbildung von Lehrkräften</h2>
+    design:
+      columns: '2'
+  - block: markdown # https://wowchemy.com/blocks/markdown/
+    id: outreach
+    content:
+        title: Outreach
+        subtitle: Lehrkräftefortbildungen und Schulprojekte
+        text: <h2>Aus- und Fortbildung von Lehrkräften</h2>
               <h3>2024</h3> 
               <ul>
                <li><b>KI-Bildung im Mathematikunterricht,</b> Workshop auf dem 34. Schweizerischen Tag über Mathematik und Unterricht 2024, Zürich, September 2024</li>
+               <li><b>Bildung mit und über KI im Unterricht,</b> Workshop auf dem Tag des Digitalen Lernens, Salzburg, Juni 2024</li>
+               <li><b>Opening the Blackbox - Ein allgemeinverständlicher Einblick in die Grundlagen der KI für alle Schulfächer,</b> Workshop für die BHAK /BHAS 1, Salzburg, Mai 2024</li>
                </ul>
               <h3>2023</h3> 
                <ul>
@@ -229,15 +238,16 @@ sections:
                <ul>
                <li><b>09-12/2022:</b> Gestaltung und Durchführung des Projektkurses <a href="https://www.scc.kit.edu/forschung/16168.php">Mädels machen MI(NT) - Mit Mathe und KI reale Probleme lösen</a>, Karlsruhe</li>
                <li><b>SoSe 21:</b> Gestaltung und Durchführung des <a href="https://www.scc.kit.edu/forschung/14727.php">Schnupperkurses Mathematik des KIT</a> </li>
+              <li><b>09-12/2022:</b> Gestaltung und Durchführung von Workshops zur KI im Rahmen von<a href="https://ki-macht-schule.de/"> KI macht Schule</a>, Deutschland und Österreich</li>
                <li><b>10/2019:</b> Gestaltung und Durchführung von mathematischen Modellierungstagen an der Autonomous University of Baja California, Tijuana, Mexiko</li>
                <li><b>Seit 2019:</b> Organisation und Betreuung von diversen mathematischen Modellierungswochen für Schüler:innen (<a href="https://www.cammp.online/21.php">CAMMP week</a>)</li> 
-               <li><b>Seit 2015:</b> Organisation, Gestaltung und Betreuung zahlreicher mathematischer Modellierungstage für Schüler:innen (<a href="https://www.cammp.online/116.php">CAMMP day</a>, RWTH Aachen und KIT)</li>  
+               <li><b>Seit 2015:</b> Organisation, Gestaltung und Betreuung zahlreicher mathematischer Modellierungstage für Schüler:innen (<a href="https://www.cammp.online/116.php">CAMMP day</a>, Aachen, Karlsruhe und Salzburg)</li>  
                <li><b>2017:</b> Vertretungslehrkraft am Einhard-Gymnasium Aachen</li>
                </ul>
     design:
       columns: '2'
-  # - block: accomplishments
-  #   content:
+#   - block: XYZ
+ #    content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
   #     title: 'Accomplish&shy;ments'
   #     subtitle:
