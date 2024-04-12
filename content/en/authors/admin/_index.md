@@ -84,7 +84,7 @@ email: ''
 highlight_name: true
 ---
 
-I am an assistant professor in mathematics education at the University of Salzburg. My research interests lie in the field of mathematical modeling education and education in the areas of Data Science and AI.
+I am an assistant professor (tenure track) in mathematics education at the University of Salzburg. My research interests lie in the field of mathematical modeling education and education in the areas of Data Science and AI.
 
 As part of the student program <a href="https://www.cammp.online/">CAMMP</a>, I develop innovative materials and concepts for mathematics education. Additionally, I am part of the leadership team of the non-profit initiative <a href="http://ki-macht-schule.de">KI macht Schule</a>, which brings education on AI and machine learning to German-speaking schools! 
 
