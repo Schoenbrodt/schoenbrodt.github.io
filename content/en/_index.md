@@ -202,6 +202,13 @@ sections:
         title: Outreach
         subtitle: Teacher Trainings and School Projects
         text:               <h2>Teacher Training and Professional Development</h2>
+              <h3>2024</h3>
+              <ul>
+               <li><b>AI Education in  Mathematics Education,</b> Workshop on the 35th Swiss Day of Mathematics and Teaching 2024, Zürich, Sitzwerland, September 2024</li>
+               <li><b>AI Education in  Mathematics Education,</b> Talk and Workshop on the Austrian Day of Mathematics Education 2024, Linz, Austria, September 2024</li>
+               <li><b>Bildung with and on AI  in the classroom,</b> Two Workshops on the Day of Digital Teaching, Salzburg, Austria, June 2024</li>
+               <li><b>Opening the Blackbox - - A commonly understandable insight into the fundamentals of AI for all subjects,</b> Workshop for teachers at BHAK /BHAS 1, Salzburg, May 2024</li>
+               </ul>
               <h3>2023</h3>
               <ul>
               <li><b>Exploring Modern Applications of Mathematics through Computer-Aided Materials,</b> Workshop at the Teachers Day of the ISTRON Conference, Vienna, September 2023</li>
