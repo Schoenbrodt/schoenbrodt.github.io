@@ -1,6 +1,6 @@
 ---
 
-title: Förderung von Epistemic Agency – Entwicklung von Computational Essays bei der Bearbeitung datengetriebener, realer Problemstellungen 
+title: Fostering epistemic agency - developing computational essays when solving data-driven, real-world problems 
 
 event: Minisymposium Data Science at the GDM 2024
 #event_url: https://www.scc.kit.edu/forschung/IAMIT2023.php
@@ -9,8 +9,8 @@ location: Essen, Germany
 
 summary: Talk at the Minisymposium Data Science at the GDM 2024 (with Sven Hüsing) 
 abstract: '
-In diesem Beitrag stellen wir ein Konzept zur Förderung der Epistemic Agency von Schüler:innen im Rahmen der projektartigen Bearbeitung von datengetriebenen, realen Problemstellungen vor. Dabei entwickeln Schüler:innen sogenannte Computational Essays als Produkte ihrer Modellierungs- und Programmierprozesse, welche die Problemlösung und den Prozess nachvollziehbar und reproduzierbar machen sollen.
-Im Beitrag berichten wir von einer ersten Umsetzung dieses Konzeptes im Rahmen der Modellierungswoche des Schüler:innenprogramms CAMMP sowie ersten Erkenntnissen der Pilotierung.'
+In this presentation, we introduce a concept for promoting students epistemic agency in the context of data-driven, real-world problem-solving activities. Students develop so-called computational essays as products of their modeling and programming processes, which are intended to make the solution to the problem and the process comprehensible and reproducible.
+In this article, we report on the first implementation of this concept as part of the modeling week of the CAMMP student program as well as initial findings from the pilot study.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
