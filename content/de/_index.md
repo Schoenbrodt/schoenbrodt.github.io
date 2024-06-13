@@ -202,16 +202,17 @@ sections:
   - block: markdown # https://wowchemy.com/blocks/markdown/
     id: outreach
     content:
-        title: Outreach
-        subtitle: Lehrkräftefortbildungen und Schulprojekte
-        text: <h2>Aus- und Fortbildung von Lehrkräften</h2>
-              <h3>2024</h3> 
-              <ul>
-               <li><b>KI-Bildung im Mathematikunterricht,</b> Workshop auf dem 34. Schweizerischen Tag über Mathematik und Unterricht 2024, Zürich, September 2024</li>
-               <li><b>KI-Bildung im Mathematikunterricht,</b> Vortrag und Workshop auf dem Tag des Mathematikunterrichts 2024, Linz, September 2024</li>
-               <li><b>Bildung mit und über KI im Unterricht,</b> zwei Workshops auf dem Tag des Digitalen Lernens, Salzburg, Juni 2024</li>
-               <li><b>Opening the Blackbox - Ein allgemeinverständlicher Einblick in die Grundlagen der KI für alle Schulfächer,</b> Workshop für die BHAK /BHAS 1, Salzburg, Mai 2024</li>
-               </ul>
+      title: Outreach
+      subtitle: Lehrkräftefortbildungen und Schulprojekte
+      text: |
+        <h2>Aus- und Fortbildung von Lehrkräften</h2>
+        <h3>2024</h3> 
+        <ul>
+          <li><b>KI-Bildung im Mathematikunterricht,</b> Workshop auf dem 34. Schweizerischen Tag über Mathematik und Unterricht 2024, Zürich, September 2024</li>
+          <li><b>KI-Bildung im Mathematikunterricht,</b> Vortrag und Workshop auf dem Tag des Mathematikunterrichts 2024, Linz, September 2024</li>
+          <li><b>Bildung mit und über KI im Unterricht,</b> zwei Workshops auf dem Tag des Digitalen Lernens, Salzburg, Juni 2024</li>
+          <li><b>Opening the Blackbox - Ein allgemeinverständlicher Einblick in die Grundlagen der KI für alle Schulfächer,</b> Workshop für die BHAK /BHAS 1, Salzburg, Mai 2024</li>
+        </ul>
               <h3>2023</h3> 
                <ul>
                <li><b>Moderne Anwendungen der Mathematik computergestützt erarbeiten,</b> Workshop auf dem Lehrkräftetag der ISTRON-Herbsttagung, Wien, September 2023</li>
@@ -245,6 +246,10 @@ sections:
                <li><b>Seit 2015:</b> Organisation, Gestaltung und Betreuung zahlreicher mathematischer Modellierungstage für Schüler:innen (<a href="https://www.cammp.online/116.php">CAMMP day</a>, Aachen, Karlsruhe und Salzburg)</li>  
                <li><b>2017:</b> Vertretungslehrkraft am Einhard-Gymnasium Aachen</li>
                </ul>
+               <div style="display: flex; justify-content: center; gap: 100px; margin-bottom: 20px;">
+              <img src="/images/cammp.png" alt="CAMMP logo" style="max-width: 45%; height: auto;">
+              <img src="/images/kims2.svg" alt="KImS Logo" style="max-width: 45%; height: auto;">
+              </div>
     design:
       columns: '2'
 #   - block: XYZ

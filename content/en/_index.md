@@ -199,9 +199,10 @@ sections:
   - block: markdown # https://wowchemy.com/blocks/markdown/
     id: outreach
     content:
-        title: Outreach
-        subtitle: Teacher Trainings and School Projects
-        text:               <h2>Teacher Training and Professional Development</h2>
+      title: Outreach
+      subtitle: Teacher Trainings and School Projects
+      text: |
+              <h2>Teacher Training and Professional Development</h2>
               <h3>2024</h3>
               <ul>
                <li><b>AI Education in  Mathematics Education,</b> Workshop on the 35th Swiss Day of Mathematics and Teaching 2024, Zürich, Sitzwerland, September 2024</li>
@@ -241,6 +242,10 @@ sections:
               <li><b>Since 2015:</b> Organization, design, and supervision of numerous mathematical modeling days for high-school students (<a href="https://www.cammp.online/116.php">CAMMP day</a>, RWTH Aachen und KIT)</li> 
               <li><b>2017:</b> Substitute teacher at Einhard Gymnasium Aachen</li>
               </ul>
+              <div style="display: flex; justify-content: center; gap: 100px; margin-bottom: 20px;">
+              <img src="/images/cammp.png" alt="CAMMP logo" style="max-width: 45%; height: auto;">
+              <img src="/images/kims2.svg" alt="KImS Logo" style="max-width: 45%; height: auto;">
+              </div>
     design:
       columns: '2'
   # - block: accomplishments
