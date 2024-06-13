@@ -246,10 +246,14 @@ sections:
                <li><b>Seit 2015:</b> Organisation, Gestaltung und Betreuung zahlreicher mathematischer Modellierungstage für Schüler:innen (<a href="https://www.cammp.online/116.php">CAMMP day</a>, Aachen, Karlsruhe und Salzburg)</li>  
                <li><b>2017:</b> Vertretungslehrkraft am Einhard-Gymnasium Aachen</li>
                </ul>
-               <div style="display: flex; justify-content: center; gap: 100px; margin-bottom: 20px;">
-              <img src="/images/cammp.png" alt="CAMMP logo" style="max-width: 45%; height: auto;">
-              <img src="/images/kims2.svg" alt="KImS Logo" style="max-width: 45%; height: auto;">
-              </div>
+               <div style="display: flex; justify-content: center; gap: 30px; margin-bottom: 20px;">
+                <a href="https://www.cammp.online/" style="width: 45%; text-align: center;">
+                    <img src="/images/cammp.png" alt="CAMMP logo" style="max-width: 100%; height: auto;">
+                </a>
+                <a href="https://ki-macht-schule.de/" style="width: 45%; text-align: center;">
+                    <img src="/images/kims2.svg" alt="KImS Logo" style="max-width: 100%; height: auto;">
+                </a>
+                </div>
     design:
       columns: '2'
 #   - block: XYZ
