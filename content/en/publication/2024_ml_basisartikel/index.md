@@ -1,8 +1,9 @@
 ---
-title: "Projektkurs für Mädels: Mit Mathe und KI reale Probleme lösen" 
+title: "KI als Thema für den Mathematikunterricht"
 authors:
-- Stephanie Hofmann
+- Rolf Biehler
 - admin
+- Martin Frank
 
 
 
@@ -10,10 +11,10 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 # date: "2015-09-01T00:00:00Z"
-#doi: "https://doi.org/10.1515/dmvm-2022-0016"
+# doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-03-18T00:00:00Z"
+publishDate: "2024-06-08T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,22 +23,22 @@ publishDate: "2024-03-18T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Mitteilungen der Deutschen Mathematiker-Vereinigung* 32(2), S. 124–126" # "*Journal of Source Themes, 1*(1)"
+publication: "*mathematik lehren*, 244, Friedrich-Verlag" # "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: In diesem Beitrag stellen wir das Konzept eines außerunterrichtlichen Lernangebots für junge Frauen zum Thema Künstliche Intelligenz (KI) und mathematische Modellierung vor. Das Angebot vermittelt Schülerinnen ab Klasse 10 die mathematischen und informatischen Grundlagen moderner KI-Technologien. Durch problemorientierte Praxisphasen und Begegnungen mit weiblichen Role Models aus Data Science-Berufen sollen Gender-Stereotypen durchbrochen und die Motivation junger Frauen für KI, Mathematik und Informatik gestärkt werden.
+abstract: 'Künstliche Intelligenz (KI) eröffnet faszinierende Anwendungskontexte für den Mathematikunterricht. Zugleich kann der Mathematikunterricht einen wichtigen Beitrag zu früher KI-Bildung leisten. In diesem Basisartikel stehen fachliche und anwendungsbezogene Aspekte im Vordergrund, bei denen aber immer wieder Bezüge zu Themen des Mathematikunterrichts hergestellt werden, die stärker oder anders akzentuiert werden müssten, um auf KI vorzubereiten.'
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+#- Source Themes
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://doi.org/10.1515/dmvm-2024-0037'
+url_pdf: 'https://www.friedrich-verlag.de/shop/datenbasiertes-entscheiden-58244'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: ''
 # url_poster: ''

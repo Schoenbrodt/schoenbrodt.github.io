@@ -22,7 +22,7 @@ publishDate: "2024-02-10T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*mathematik lehren*. Friedrich-Verlag (im Druck)" # "*Journal of Source Themes, 1*(1)"
+publication: "*mathematik lehren*, 244, Friedrich-Verlag" # "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
 #abstract: '...'
@@ -37,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://www.friedrich-verlag.de/shop/sekundarstufe/mathematik/fachzeitschriften/mathematik-lehren'
+url_pdf: 'https://www.friedrich-verlag.de/shop/datenbasiertes-entscheiden-58244'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: ''
 # url_poster: ''

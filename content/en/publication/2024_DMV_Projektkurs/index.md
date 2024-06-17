@@ -13,7 +13,7 @@ authors:
 #doi: "https://doi.org/10.1515/dmvm-2022-0016"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-03-18T00:00:00Z"
+publishDate: "2024-06-15T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,7 +22,7 @@ publishDate: "2024-03-18T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Mitteilungen der Deutschen Mathematiker-Vereinigung (im Druck)*" # "*Journal of Source Themes, 1*(1)"
+publication: "*Mitteilungen der Deutschen Mathematiker-Vereinigung* 32(2), pp. 124–126" # "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
 abstract: In diesem Beitrag stellen wir das Konzept eines außerunterrichtlichen Lernangebots für junge Frauen zum Thema Künstliche Intelligenz (KI) und mathematische Modellierung vor. Das Angebot vermittelt Schülerinnen ab Klasse 10 die mathematischen und informatischen Grundlagen moderner KI-Technologien. Durch problemorientierte Praxisphasen und Begegnungen mit weiblichen Role Models aus Data Science-Berufen sollen Gender-Stereotypen durchbrochen und die Motivation junger Frauen für KI, Mathematik und Informatik gestärkt werden.
@@ -37,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-# url_pdf: 'https://link.springer.com/article/10.1007/s00591-021-00310-x'
+url_pdf: 'https://doi.org/10.1515/dmvm-2024-0037'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: ''
 # url_poster: ''

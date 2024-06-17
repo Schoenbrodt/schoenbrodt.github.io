@@ -1,5 +1,5 @@
 ---
-title: "KI als Unterrichtsthema im Matheunterricht"
+title: "KI als Thema für den Mathematikunterricht"
 authors:
 - Rolf Biehler
 - admin
@@ -23,7 +23,7 @@ publishDate: "2024-02-08T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*mathematik lehren*. Friedrich-Verlag (im Druck)" # "*Journal of Source Themes, 1*(1)"
+publication: "*mathematik lehren*, 244, Friedrich-Verlag" # "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
 abstract: 'Künstliche Intelligenz (KI) eröffnet faszinierende Anwendungskontexte für den Mathematikunterricht. Zugleich kann der Mathematikunterricht einen wichtigen Beitrag zu früher KI-Bildung leisten. In diesem Basisartikel stehen fachliche und anwendungsbezogene Aspekte im Vordergrund, bei denen aber immer wieder Bezüge zu Themen des Mathematikunterrichts hergestellt werden, die stärker oder anders akzentuiert werden müssten, um auf KI vorzubereiten.'
@@ -38,7 +38,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://www.friedrich-verlag.de/shop/sekundarstufe/mathematik/fachzeitschriften/mathematik-lehren'
+url_pdf: 'https://www.friedrich-verlag.de/shop/datenbasiertes-entscheiden-58244'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: ''
 # url_poster: ''
