@@ -31,6 +31,12 @@ sections:
           location: Salzburg, Österreich
           date_start: '2023-11-01'
           date_end: ''
+          description: |2-
+            Tätigkeiten beinhalten:
+            * Lehre im Lehramt Mathematik
+            * Forschung im Bereich Mathematikdidaktik und KI-Bildung
+            * Beirat der Ditact
+            * Leitung Schüler:innenprogramm CAMMP Salzburg
         - title: PostDoc und Nachwuchsgruppenleiterin
           company: Karlsruher Institut für Technologie
           company_url: 'https://www.kit.edu/'
@@ -39,10 +45,10 @@ sections:
           date_start: '2022-02-24'
           date_end: '2023-10-31'
           description: |2-
-              Tätigkeiten beinhalten:
-              * Workshops zur mathematischen Modellierung für Schüler:innen
-              * Forschung im Bereich Mathematikdidaktik und KI-Bildung
-              * Leitung eines Teams aus Doktoranden und Lehrkräften
+            Tätigkeiten beinhalten:
+            * Leitung eines Teams aus Doktoranden und Lehrkräften
+            * Workshops zur mathematischen Modellierung für Schüler:innen
+            * Forschung im Bereich Mathematikdidaktik und KI-Bildung
           # description: Taught electronic engineering and researched semiconductor physics. 
           #* Forschung im Bereich Mathematikdidaktik und KI-Bildung
         - title: Wissenschaftliche Mitarbeiterin und Doktorandin

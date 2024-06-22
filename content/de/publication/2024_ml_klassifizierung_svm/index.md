@@ -1,8 +1,8 @@
 ---
-title: "Und, was schaust du so? – Wie Streamingdienste unsere Präferenzen vorhersagen"
+title: "KI in der Medizin – Klassifizierungsprobleme mit Geraden lösen"
 authors:
 - admin
-- Lisa Rantzau
+# - Martin Frank
 
 
 
@@ -13,7 +13,7 @@ authors:
 # doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-02-10T00:00:00Z"
+publishDate: "2024-06-10T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,7 +22,7 @@ publishDate: "2024-02-10T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*mathematik lehren*, 244, Friedrich-Verlag" # "*Journal of Source Themes, 1*(1)"
+publication: "*mathematik lehren*, 244, Friedrich-Verlag, S. 14--18" # "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
 #abstract: '...'
@@ -37,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://www.friedrich-verlag.de/shop/datenbasiertes-entscheiden-58244'
+url_pdf: 'https://www.friedrich-verlag.de/shop/ki-verstehen-wie-maschinen-lernen-58244'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: ''
 # url_poster: ''

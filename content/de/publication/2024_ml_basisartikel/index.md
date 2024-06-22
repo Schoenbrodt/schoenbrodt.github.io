@@ -14,7 +14,7 @@ authors:
 # doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-02-08T00:00:00Z"
+publishDate: "2024-06-20T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,7 +23,7 @@ publishDate: "2024-02-08T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*mathematik lehren*, 244, Friedrich-Verlag" # "*Journal of Source Themes, 1*(1)"
+publication: "*mathematik lehren*, 244, Friedrich-Verlag, S. 2--7" # "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
 abstract: 'Künstliche Intelligenz (KI) eröffnet faszinierende Anwendungskontexte für den Mathematikunterricht. Zugleich kann der Mathematikunterricht einen wichtigen Beitrag zu früher KI-Bildung leisten. In diesem Basisartikel stehen fachliche und anwendungsbezogene Aspekte im Vordergrund, bei denen aber immer wieder Bezüge zu Themen des Mathematikunterrichts hergestellt werden, die stärker oder anders akzentuiert werden müssten, um auf KI vorzubereiten.'
@@ -38,7 +38,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://www.friedrich-verlag.de/shop/datenbasiertes-entscheiden-58244'
+url_pdf: 'https://www.friedrich-verlag.de/shop/ki-verstehen-wie-maschinen-lernen-58244'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: ''
 # url_poster: ''

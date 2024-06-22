@@ -33,7 +33,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Promotion in Mathematikdidaktik 
+    - course: Promotion in der Mathematikdidaktik 
       institution: Karlsruher Institut für Technologie
       year: 2022
     - course: M.Ed. Lehramt Mathematik und Chemie
