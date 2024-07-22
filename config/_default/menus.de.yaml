@@ -15,16 +15,19 @@ main:
   #  weight: 30
   - name: Vorträge
     url: '#talks'
-    weight: 40
+    weight: 50
   - name: Publikationen
     url: '#publications'
+    weight: 40
+  - name: News
+    url: '#news'
     weight: 30
   - name: Lehre
     url: '#teaching'
-    weight: 50
+    weight: 60
   - name: Outreach
     url: '#outreach'
-    weight: 60
+    weight: 70
   #- name: Kontakt
   #  url: '#contact'
   #  weight: 50

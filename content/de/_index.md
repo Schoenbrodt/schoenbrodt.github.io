@@ -104,6 +104,35 @@ sections:
               #* Deploying
     design:
       columns: '2'
+  - block: collection
+    id: news
+    content:
+      title: News
+      subtitle: ''
+      text: ''
+      # Page type to display. E.g. post, talk, publication...
+      page_type: post
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 5
+      # Filter on criteria
+      filters:
+        author: ""
+        category: ""
+        tag: ""
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ""
+      # Choose how many pages you would like to offset by
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
+    design:
+      # Choose a layout view
+      view: compact # date-title-summary
+      # Reduce spacing
+      spacing:
+        padding: [0, 0, 0, 0]
   - block: markdown
     id: awards
     content:
@@ -196,12 +225,12 @@ sections:
     
               <h2>Betreute Abschlussarbeiten</h2>
               <ul>
-              <li>Diehle, S. (2023). Optimierung von Windkraftwerken als Thema interdisziplinärer, computergestützter Modellierungsprojekte, Bachelorarbeit, KIT.  </li>
-               <li>Maier, R. (2023). Empfehlungssysteme und KI – Entwicklung und Erprobung eines interdisziplinären Lernmoduls zum Thema KI in der Medienbranche, Masterarbeit, KIT.</li>
-               <li>Hoeffer, K. (2022). Aktivitätserkennung auf dem Smartphone – Entwicklung von Unterrichtsmaterial für computergestützte mathematische Modellierungsprojekte, Masterarbeit, KIT. </li>
-               <li>Rantzau, L. (2021). Empfehlungssysteme basierend auf Nachbarschaftsmethoden – mathematisch-fachliche Diskussion und Entwicklung digitalen Lernmaterials zur Netflix Challenge für Schüler*innen der Sekundarstufe II, Bachelorarbeit, KIT. </li>
-               <li>Hoeffer, K. (2020).  Entwicklung von Unterrichtsmaterial zum Thema Solarenergie im Rahmen eines interdisziplinären mathematischen Modellierungsprojektes, Bachelorarbeit, KIT.</li>
-               <li>Schmidt, L. (2019). Machine Learning - automatische Bilderkennung mit Mathematik?! Ein Lehr-Lern-Modul im Rahmen eines mathematischen Modellierungstages für Schülerinnen und Schüler der Sekundarstufe II, Masterarbeit, RWTH Aachen.</li>
+              <li>D.S. (2023). Optimierung von Windkraftwerken als Thema interdisziplinärer, computergestützter Modellierungsprojekte, Bachelorarbeit, KIT.  </li>
+               <li>M.R. (2023). Empfehlungssysteme und KI – Entwicklung und Erprobung eines interdisziplinären Lernmoduls zum Thema KI in der Medienbranche, Masterarbeit, KIT.</li>
+               <li>H.K. (2022). Aktivitätserkennung auf dem Smartphone – Entwicklung von Unterrichtsmaterial für computergestützte mathematische Modellierungsprojekte, Masterarbeit, KIT. </li>
+               <li>R.L. (2021). Empfehlungssysteme basierend auf Nachbarschaftsmethoden – mathematisch-fachliche Diskussion und Entwicklung digitalen Lernmaterials zur Netflix Challenge für Schüler*innen der Sekundarstufe II, Bachelorarbeit, KIT. </li>
+               <li>H.K. (2020).  Entwicklung von Unterrichtsmaterial zum Thema Solarenergie im Rahmen eines interdisziplinären mathematischen Modellierungsprojektes, Bachelorarbeit, KIT.</li>
+               <li>S.L. (2019). Machine Learning - automatische Bilderkennung mit Mathematik?! Ein Lehr-Lern-Modul im Rahmen eines mathematischen Modellierungstages für Schülerinnen und Schüler der Sekundarstufe II, Masterarbeit, RWTH Aachen.</li>
                </ul>
     design:
       columns: '2'
@@ -246,7 +275,7 @@ sections:
                <ul>
                <li><b>09-12/2022:</b> Gestaltung und Durchführung des Projektkurses <a href="https://www.scc.kit.edu/forschung/16168.php">Mädels machen MI(NT) - Mit Mathe und KI reale Probleme lösen</a>, Karlsruhe</li>
                <li><b>SoSe 21:</b> Gestaltung und Durchführung des <a href="https://www.scc.kit.edu/forschung/14727.php">Schnupperkurses Mathematik des KIT</a> </li>
-              <li><b>09-12/2022:</b> Gestaltung und Durchführung von Workshops zur KI im Rahmen von<a href="https://ki-macht-schule.de/"> KI macht Schule</a>, Deutschland und Österreich</li>
+              <li><b>Seit 2020:</b> Gestaltung und Durchführung von Workshops zu KI im Rahmen von<a href="https://ki-macht-schule.de/"> KI macht Schule</a>, Deutschland und Österreich</li>
                <li><b>10/2019:</b> Gestaltung und Durchführung von mathematischen Modellierungstagen an der Autonomous University of Baja California, Tijuana, Mexiko</li>
                <li><b>Seit 2019:</b> Organisation und Betreuung von diversen mathematischen Modellierungswochen für Schüler:innen (<a href="https://www.cammp.online/21.php">CAMMP week</a>)</li> 
                <li><b>Seit 2015:</b> Organisation, Gestaltung und Betreuung zahlreicher mathematischer Modellierungstage für Schüler:innen (<a href="https://www.cammp.online/116.php">CAMMP day</a>, Aachen, Karlsruhe und Salzburg)</li>  
