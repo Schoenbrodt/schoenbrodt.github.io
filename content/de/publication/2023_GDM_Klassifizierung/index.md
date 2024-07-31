@@ -22,7 +22,7 @@ publishDate: "2023-01-18T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In: Beiträge zum Mathematikunterricht 2022, WTM Verlag" # "*Journal of Source Themes, 1*(1)"
+publication: "In: Beiträge zum Mathematikunterricht 2022, WTM-Verlag" # "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
 abstract: 'Was haben Gesichtserkennung, die automatische Diagnose von Krankheiten und das autonome Fahren gemeinsam? In diesen und vielen weiteren Anwendungen aus Wissenschaft, Forschung und Alltag werden Klassifizierungsprobleme gelöst. In der Regel werden zum Lösen dieser Probleme riesige Datenmengen analysiert und effiziente Algorithmen entwickelt. Häufig verwendete und etablierte Methoden stammen aus einem Bereich, der heute in aller Munde ist: Künstliche Intelligenz bzw. maschinelles Lernen. Doch was verbirgt sich dahinter? Welche mathematischen Konzepte bilden das Fundament dieser Methoden? Können mit Schulmathematik Modelle entwickelt werden, die Klassifizierungsprobleme automatisiert lösen? Wie können diese Probleme mit Schüler:innen behandelt werden? Diese und weitere Fragen werden im Vortrag am Beispiel von Bildklassifizierungsproblemen beantwortet. Dazu werden die mathematischen Hintergründe einer maschinellen Lernmethode, der sogenannten Stützvektormethode (engl. Support Vector Machine) und das entwickelte digitale Lernmaterial (umgesetzt als Jupyter Notebooks) vorgestellt. In diesem finden zahlreiche schulmathematische Konzepte wie Vektoren in 2- oder 3-dimensionalen Vektorräumen, das Skalarprodukt oder die Berechnung von Abständen zwischen Punkten und Ebenen Einsatz. Wir teilen unsere Erfahrungen in der Durchführung von eintägigen Workshops mit Oberstufenschüler:innen.'

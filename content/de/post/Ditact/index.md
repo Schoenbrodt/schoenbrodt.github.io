@@ -1,5 +1,5 @@
 ---
-title: 🎉  Beirat der ditact 
+title: Beirat der ditact 
 summary: Ich freue mich als Beiratsmitglied der ditact ein erfolgreiches IT-zentriertes Kursprogramm für Frauen in Österreich zu unterstützen!
 
 

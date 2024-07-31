@@ -1,12 +1,12 @@
 ---
-title: 🎉  KI macht Schule goes Austria!
+title: KI macht Schule goes Austria!
 summary: Wir starten nun auch in Österreich durch -- mit der KI macht Schule Austria gGmbH
-date: 2024-07-31
+date: 2024-07-29
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Friedrich-Verlag**](https://www.friedrich-verlag.de/shop/ki-verstehen-wie-maschinen-lernen-58244)'
+  caption: 'Image credit: [**KI macht Schule gGmbH**](ki-macht-schule.de)'
 
 authors:
   - admin
@@ -22,13 +22,12 @@ tags:
 
 ## Bildung mit und über KI in Österreich 
 
-Seit Juli 2024 gibt es [**KI macht Schule**](ki-macht-schule.at) als KI macht Schule Austria gGmbH nun auch offiziell in Österreich! 
-
-Auf unserer Unterrichtsplattform [kiwi.schule](kiwi.schule) finden Lehrkräfte erprobte Materialien und DSGVO-konforme, moderne KI-Tools um ganzheitliche KI-Bildung im eigenen Unterricht umzusetzen. Ich freue mich, wenn wir mit unserer Plattform Lehrkäfte in ganz Österreich durch didaktisch hochwertige Materialien rund um KI unterstützen können.
-
-Neben der Unterrichtsplattform bieten wir Fortbildungen für Lehrkräfte und Kurse für Schulklassen an -- in Wien, Innsbruck und Salzburg haben bereits verschiedene stattgefunden.
+Seit Juli 2024 gibt es [**KI macht Schule**](http://ki-macht-schule.at) als KI macht Schule Austria gGmbH nun auch offiziell in Österreich! 
 
 
+Um qualitative KI-Bildung flächendeckend in den Unterricht zu integrieren, entwickelt KI macht Schule Materialien und DSGVO-konforme Tools für fächerübergreifende KI-Bildung. Diese stellen wir auf unserer Unterrichtsplattform [kiwi.schule](kiwi.schule) zur Verfügung – der zentralen Anlaufstelle für KI-Bildung. Zudem schulen wir Lehrkräfte aller Fächer in Fortbildungen zum Unterrichten mit und über KI und bieten Workshops für Schulklassen an -- in Wien, Innsbruck und Salzburg haben bereits Kurse stattgefunden.
+
+Ich freue mich, als Gesellschafterin-Geschäftsführerin von KI macht Schule Austria einen Beitrag zu KI-Bildung in Österreich zu leisten!
 
 
 

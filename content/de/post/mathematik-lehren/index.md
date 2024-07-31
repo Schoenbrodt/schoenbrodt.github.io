@@ -1,6 +1,6 @@
 ---
 title: 🎉  Themenheft zu KI-Bildung im Matheunterricht 
-summary: Das *mathematik lehren* Heft liefert Lehrkräften eprobtes Material, um KI als Thema im Mathematikunterricht zu vermitteln!
+summary: Unser *mathematik lehren* Heft liefert Lehrkräften eprobtes Material, um KI als Thema im Mathematikunterricht zu vermitteln!
 date: 2024-06-15
 
 # Featured image
