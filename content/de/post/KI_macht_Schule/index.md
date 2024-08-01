@@ -31,4 +31,6 @@ Ich freue mich, als Gesellschafterin-Geschäftsführerin von KI macht Schule Aus
 
 
 
+
+
 [//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#41;]&#40;https://hugoblox.com&#41;)

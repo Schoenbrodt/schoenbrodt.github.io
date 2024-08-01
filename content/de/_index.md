@@ -179,7 +179,13 @@ sections:
     content:
         title: Lehre
         subtitle: Lehrveranstaltungen und betreute Abschlussarbeiten
-        text: <h2>Universitäre Lehre</h2>
+        text: |
+            <h2>Universitäre Lehre</h2>
+              <h3>WiSe 24/25</h3>
+              <ul>
+              <li>Vorlesung <i>Einführung in die Mathematikdidaktik II</i>, Universität Salzburg</li>
+              <li><i>Fachdidaktisches Seminar</i>, Universität Salzburg</li>
+              </ul>
               <h3>SoSe 24</h3>
               <ul>
               <li>Vorlesung <i>Einführung in die Mathematikdidaktik I</i>, Universität Salzburg</li>
@@ -200,29 +206,15 @@ sections:
                <ul> <li>Blockseminar <i>Grundlagen Künstlicher Intelligenz und ihre Anwendung in allen Schulfächern</i>, Universität Konstanz</li>
                 <li>Seminar <i>Digitalbasierte Lernkontexte des Mathematikunterrichts</i>, KIT </li>
                </ul>
-               <h3>WiSe 21/22</h3>
-                <ul>
-                <li>Blockseminar <i>Grundlagen Künstlicher Intelligenz und ihre Anwendung in allen Schulfächern</i>, Universität Konstanz</li>
+              <details>
+              <summary style="font-size: 1.3em; font-weight: bold; cursor: pointer;">2014–2021</summary>
+               <ul>
+                <li><b>WiSe 21/22</b> Blockseminar <i>Grundlagen Künstlicher Intelligenz und ihre Anwendung in allen Schulfächern</i>, Universität Konstanz</li>
+                <li><b>WiSe 19/20, SoSe 20, WiSe 20/21</b> Seminar <i>Individuelles Fachdidaktikprojekt</i>, KIT</li>
+                 <li><b>SoSe 2018 und SoSe 2019</b> <i>Exkursionswoche zur mathematischen Modellierung (CAMMP week Pro)</i>, Seminar für Studierende im B.Sc./M.Sc. Mathematik, Simulation Science und CES, RWTH Aachen</li>
+                <li><b>WiSe 14/15</b> Tutorin für Höhere Mathematik I, RWTH Aachen</li>      
                </ul>
-               <h3>WiSe 20/21</h3>
-                <ul>
-                <li>Seminar <i>Individuelles Fachdidaktikprojekt</i>, KIT</li>
-               </ul>
-                <h3>SoSe 20</h3>
-                <ul>
-                <li>Seminar <i>Individuelles Fachdidaktikprojekt</i>, KIT</li>
-               </ul>
-                  <h3>WiSe 19/20</h3>
-                <ul>
-                <li>Seminar <i>Individuelles Fachdidaktikprojekt</i>, KIT</li>
-               </ul>
-               
-               <h3>2014 – 2019</h3>
-                <ul>
-                <li><b>SoSe 2018 und SoSe 2019</b> <i>Exkursionswoche zur mathematischen Modellierung (CAMMP week Pro)</i>, Seminar für Studierende im B.Sc./M.Sc. Mathematik, Simulation Science und CES, RWTH Aachen</li>
-                <li><b>WiSe 14/15</b> Tutorin für Höhere Mathematik I, RWTH Aachen</li>               
-              </ul>
-    
+              </details>
               <h2>Betreute Abschlussarbeiten</h2>
               <ul>
               <li>D.S. (2023). Optimierung von Windkraftwerken als Thema interdisziplinärer, computergestützter Modellierungsprojekte, Bachelorarbeit, KIT.  </li>
@@ -261,7 +253,9 @@ sections:
                <li><b>Digitales Lernmaterial zu KI und Data Science für den Mathematikunterricht,</b> Workshop auf dem Lehrkräftetag der ISTRON-Herbsttagung, Karlsruhe, November 2022</li>
                <li><b>Chancen für Machine Learning im Mathematikunterricht,</b>  Lehrerfortbildung auf Einladung des Referats für Bildung und Sport der Landeshauptstadt München, München, September 2022</li>
                </ul>
-               <h3>2018 – 2021</h3> 
+              <body>
+          <details>
+              <summary style="font-size: 1.3em; font-weight: bold; cursor: pointer;">2018–2021</summary>
                <ul>
                <li>Eingeladener Workshop für Lehramtsstudierende im Seminar Anwendungsorientierter Mathematikunterricht, TU Darmstadt, online, Juni 2021</li>
                <li><b>Material für computergestützte Solarenergieforschung mit Schüler/innen,</b> Lehrerfortbildung im Rahmen des MINT-Kongress, online, November 2020 </li>
@@ -271,6 +265,9 @@ sections:
                <li><b>Solarenergieforschung mit Schüler/innen im Rahmen eines computergestützten Projekttages (Sek I/II),</b> Vortrag auf dem Lehrkräftetage der ISTRON-Herbsttagung, Berlin, September 2019</li>
                <li><b>Chancen für Machine Learning im Mathematikunterricht (Sek. II),</b> Vortrag auf dem Lehrkräftetage der ISTRON-Herbsttagung, Würzburg, Oktober 2018  </li>
                </ul>
+          </details>
+              </body>
+              </html>
                <h2>Schulprojekte (Auswahl)</h2>
                <ul>
                <li><b>09-12/2022:</b> Gestaltung und Durchführung des Projektkurses <a href="https://www.scc.kit.edu/forschung/16168.php">Mädels machen MI(NT) - Mit Mathe und KI reale Probleme lösen</a>, Karlsruhe</li>
@@ -289,97 +286,6 @@ sections:
                     <img src="/images/kims2.svg" alt="KImS Logo" style="max-width: 100%; height: auto;">
                 </a>
                 </div>
-    design:
-      columns: '2'
-#   - block: XYZ
- #    content:
-  #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-  #     title: 'Accomplish&shy;ments'
-  #     subtitle:
-  #     # Date format: https://wowchemy.com/docs/customization/#date-format
-  #     date_format: Jan 2006
-  #     # Accomplishments.
-  #     #   Add/remove as many `item` blocks below as you like.
-  #     #   `title`, `organization`, and `date_start` are the required parameters.
-  #     #   Leave other parameters empty if not required.
-  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  #     items:
-  #       - certificate_url: https://www.coursera.org
-  #         date_end: ''
-  #         date_start: '2021-01-25'
-  #         description: ''
-  #         organization: Coursera
-  #         organization_url: https://www.coursera.org
-  #         title: Neural Networks and Deep Learning
-  #         url: ''
-  #       - certificate_url: https://www.edx.org
-  #         date_end: ''
-  #         date_start: '2021-01-01'
-  #         description: Formulated informed blockchain models, hypotheses, and use cases.
-  #         organization: edX
-  #         organization_url: https://www.edx.org
-  #         title: Blockchain Fundamentals
-  #         url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  #       - certificate_url: https://www.datacamp.com
-  #         date_end: '2020-12-21'
-  #         date_start: '2020-07-01'
-  #         description: ''
-  #         organization: DataCamp
-  #         organization_url: https://www.datacamp.com
-  #         title: 'Object-Oriented Programming in R'
-  #         url: ''
-  #   design:
-  #     columns: '2'
-  # - block: tag_cloud
-  #   content:
-  #     title: Popular Topics
-  #   design:
-  #     columns: '2'
-  #- block: contact
-  #  id: contact
-    # content:
-    #   title: Kontakt
-    #   subtitle:
-    #   text: |-
-    #     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
-    #   # Contact (add or remove contact options as necessary)
-    #   email: test@example.org
-    #   phone: 888 888 88 88
-    #   appointment_url: 'https://calendly.com'
-    #   address:
-    #     street: 450 Serra Mall
-    #     city: Stanford
-    #     region: CA
-    #     postcode: '94305'
-    #     country: United States
-    #     country_code: US
-    #   directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-    #   office_hours:
-    #     - 'Monday 10:00 to 13:00'
-    #     - 'Wednesday 09:00 to 10:00'
-      #contact_links:
-      #  - icon: twitter
-      #    icon_pack: fab
-      #    name: DM Me
-      #    link: 'https://twitter.com/Twitter'
-      #  - icon: skype
-      #    icon_pack: fab
-      #    name: Skype Me
-      #   link: 'skype:echo123?call'
-      #  - icon: video
-      #    icon_pack: fas
-      #    name: Zoom Me
-      #    link: 'https://zoom.com'
-      # Automatically link email and phone or display as text?
-      #autolink: true
-      # Email form provider
-      #form:
-      #  provider: netlify
-      #  formspree:
-      #    id:
-      #  netlify:
-       #   # Enable CAPTCHA challenge to reduce spam?
-       #   captcha: false
     design:
       columns: '2'
 ---
