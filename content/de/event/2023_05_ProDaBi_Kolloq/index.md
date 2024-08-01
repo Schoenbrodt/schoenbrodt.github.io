@@ -15,10 +15,10 @@ location: Online
 
 summary: Eingeladener Vortrag im Paderborn Colloquium on Data Science and Artificial Intelligence in School (mit Martin Frank)
 abstract: '
-We will try to argue that mathematical modeling, in the sense of a certain kind of mathematical thinking in an interdisciplinary context, is becoming ever more important in the age of digitalization, the data deluge, and AI. It should therefore play a key role in education.[…]
+We will argue that mathematical modeling, in the sense of a certain kind of mathematical thinking in an interdisciplinary context, is becoming ever more important in the age of digitalization, the data deluge, and AI. It should therefore play a key role in education. 
 
 We will try to outline how this could be achieved. We will also raise questions: How mechanical does mathematics education have to be? How much room is there for creativity? How to balance disciplinarity and interdisciplinarity? How to create awareness of the key role of mathematical modeling?
-In addition, we present tested, computer-based teaching material for mathematical modeling projects with high-school students. The material was developed within the CAMMP project (www.camp.online) and focuses on the problem-oriented development of the mathematical foundations of AI methods. We try to show that it is indeed possible to embed AI into mathematics education in a meaningful way.'
+In addition, we present tested, computer-based teaching material for mathematical modeling projects with high-school students. The material was developed within the CAMMP project (www.cammp.online) and focuses on the problem-oriented development of the mathematical foundations of AI methods. We try to show that it is indeed possible to embed AI into mathematics education in a meaningful way.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

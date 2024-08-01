@@ -26,9 +26,10 @@ bio: Forschung im Bereich Mathematikdidaktik und KI-Bildung
 
 # Interests to show in About widget
 interests:
-  - Didaktik der Mathematik
+  - Stoffdidaktik
+  - Mathematische Modellierung
   - Bildung über KI und Data Science
-  - MINT-Bildung
+
 
 # Education to show in About widget
 education:
@@ -84,8 +85,7 @@ email: ''
 highlight_name: true
 ---
 
-Ich bin Assistenzprofessorin (Tenure Track) für Mathematikdidaktik an der Universität Salzburg. Meine Forschungsinteressen liegen in der Didaktik der Mathematik (insbes. mathematische Modellierung) und im Bereich Bildung über KI und Data Science.<br>
-
-Im Rahmen des Schüler:innenprogramms <a href="https://www.cammp.online/">CAMMP</a> entwickle ich innovative Materialien und Konzepte für den Mathematikunterricht. Zudem bin ich Geschäftsführerin des gemeinnützigen Unternehmens <a href="http://ki-macht-schule.de">KI macht Schule</a>, welches Bildung über KI und maschinelles Lernen in deutschsprachige Schulen bringt! 
+Ich bin Assistenzprofessorin (Tenure Track) für Mathematikdidaktik an der Universität Salzburg. Meine Forschungsinteressen liegen im Bereich mathematische Modellierung und Bildung über KI und Data Science.<br>
+Im Rahmen des Schülerprogramms <a href="https://www.cammp.online/">CAMMP</a> entwickle ich innovative Materialien und Konzepte für den Mathematikunterricht. Zudem bin ich Geschäftsführerin des gemeinnützigen Unternehmens <a href="http://ki-macht-schule.de">KI macht Schule</a>, das Bildung über KI und maschinelles Lernen in deutschsprachige Schulen bringt! 
 
 {style="text-align: justify;"}
