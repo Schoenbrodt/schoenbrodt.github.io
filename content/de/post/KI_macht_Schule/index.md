@@ -25,7 +25,7 @@ tags:
 Seit Juli 2024 gibt es [**KI macht Schule**](http://ki-macht-schule.at) als KI macht Schule Austria gGmbH nun auch offiziell in Österreich! 
 
 
-Um qualitative KI-Bildung flächendeckend in den Unterricht zu integrieren, entwickelt KI macht Schule Materialien und DSGVO-konforme Tools für fächerübergreifende KI-Bildung. Diese stellen wir auf unserer Unterrichtsplattform [kiwi.schule](kiwi.schule) zur Verfügung – der zentralen Anlaufstelle für KI-Bildung. Zudem schulen wir Lehrkräfte aller Fächer in Fortbildungen zum Unterrichten mit und über KI und bieten Workshops für Schulklassen an -- in Wien, Innsbruck und Salzburg haben bereits Kurse stattgefunden.
+Um qualitative KI-Bildung flächendeckend in den Unterricht zu integrieren, entwickelt KI macht Schule Materialien und DSGVO-konforme Tools für fächerübergreifende KI-Bildung. Diese stellen wir auf unserer Unterrichtsplattform [kiwi.schule](https://kiwi.schule) zur Verfügung – der zentralen Anlaufstelle für KI-Bildung. Zudem schulen wir Lehrkräfte aller Fächer in Fortbildungen zum Unterrichten mit und über KI und bieten Workshops für Schulklassen an -- in Wien, Innsbruck und Salzburg haben bereits Kurse stattgefunden.
 
 Ich freue mich, als Gesellschafterin-Geschäftsführerin von KI macht Schule Austria einen Beitrag zu KI-Bildung in Österreich zu leisten!
 
