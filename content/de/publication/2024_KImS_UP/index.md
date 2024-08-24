@@ -26,7 +26,7 @@ publishDate: "2024-08-15T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*(angenommen)*. 22. Fachtagung Bildungstechnologien (DELFI). Bonn: Gesellschaft für Informatik e.V." # "*Journal of Source Themes, 1*(1)"
+publication: "*(angenommen)*. 22. Fachtagung Bildungstechnologien (DELFI). Bonn: Gesellschaft für Informatik e.V" # "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
 #abstract: '...'

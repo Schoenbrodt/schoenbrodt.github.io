@@ -26,9 +26,9 @@ bio: Research in Mathematics Education and AI Education
 
 # Interests to show in About widget
 interests:
-  - Mathematics Education
+  - Mathematical Modeling
   - AI and Data Science Education
-  - STEM Education
+  - Design Science
 
 # Education to show in About widget
 education:
