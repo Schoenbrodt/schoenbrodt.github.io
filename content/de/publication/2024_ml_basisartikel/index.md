@@ -38,7 +38,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://www.friedrich-verlag.de/shop/ki-verstehen-wie-maschinen-lernen-58244'
+url_pdf: 'https://www.friedrich-verlag.de/friedrich-plus/sekundarstufe/mathematik/mathematik-lehren/ki-verstehen-wie-maschinen-lernen-6319'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: ''
 # url_poster: ''

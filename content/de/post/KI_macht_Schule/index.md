@@ -30,7 +30,7 @@ Um qualitative KI-Bildung flächendeckend in den Unterricht zu integrieren, entw
 Ich freue mich, als Gesellschafterin-Geschäftsführerin von KI macht Schule Austria einen Beitrag zu KI-Bildung in Österreich zu leisten!
 
 
-
+Im Septemeber haben die Salzburger Nachrichten über uns berichtet. [Hier](https://www.sn.at/salzburg/politik/kuenstliche-intelligenz-salzburg-schule-164623726) geht es zum Artikel.
 
 
 [//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#41;]&#40;https://hugoblox.com&#41;)

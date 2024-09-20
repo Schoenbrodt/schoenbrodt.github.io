@@ -8,7 +8,7 @@ event_url: https://ki-bildung.github.io/2024/
 
 location: Fulda
 
-summary:  Vortrag auf dem Workshops KI-Bildung im Rahmen der Delfi-Tagung 
+summary:  Vortrag auf dem Workshop "KI-Bildung" im Rahmen der Delfi-Tagung 
 abstract: ''
 
 # Talk start and end times.

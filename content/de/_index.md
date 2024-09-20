@@ -235,7 +235,7 @@ sections:
         <h2>Aus- und Fortbildung von Lehrkräften</h2>
         <h3>2024</h3> 
         <ul>
-          <li><b>KI-Bildung im Mathematikunterricht,</b> eingeladener Workshop auf dem 34. Schweizerischen Tag über Mathematik und Unterricht 2024, Zürich, September 2024</li>
+          <li><b>KI-Bildung im Mathematikunterricht,</b> eingeladener Workshop auf dem <a href="https://math.ch/TMU2024/">34. Schweizerischen Tag über Mathematik und Unterricht 2024</a>, Zürich, September 2024</li>
           <li><b>KI als Thema im Mathematikunterricht,</b>  Workshop auf dem ISTRON-Lehrertag 2024, Frankfurt, September 2024</li>
           <li><b>KI-Bildung im Mathematikunterricht,</b> eingeladener Vortrag und Workshop auf dem Tag des Mathematikunterrichts 2024, Linz, September 2024</li>
           <li><b>Bildung mit und über KI im Unterricht,</b> zwei Workshops auf dem Tag des Digitalen Lernens, Salzburg, Juni 2024</li>
