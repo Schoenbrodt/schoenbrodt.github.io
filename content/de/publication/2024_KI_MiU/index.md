@@ -1,28 +1,28 @@
 ---
-title: "KI im Biologieunterricht: Von den Grundlagen zur praxisorientierten Anwendung"
+title: "Mathematische Grundlagen als Schlüssel zu einem allgemeinbildenden Verständnis von KI: Theoretische Perspektiven und praktische Unterrichtsideen"
 authors:
-- Lena von Kotzebue
-- Freya Hutter
 - admin
+- Reinhard Oldenburg
+
 
 
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 # date: "2015-09-01T00:00:00Z"
-#doi: "10.18420/delfi2024-ws-21"
+# doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-07-10T00:00:00Z"
+publishDate: "2024-11-12T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["6"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In: J. Huwer et al. (Hrsg.). Kompetenzen für den Unterricht mit und über Künstliche Intelligenz. Perspektiven, Orientierungshilfen und Praxisbeispiele für die Lehramtsausbildung in den Naturwissenschaften. Watzmann-Verlag" # "*Journal of Source Themes, 1*(1)"
+publication: "*(angenommen). Mathematik im Unterricht*" # "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
 #abstract: '...'
@@ -36,8 +36,8 @@ featured: false
 
 # links:
 # - name: ""
-#url: "https://dikolan.de/dikolan-ki"
-url_pdf: 'https://www.waxmann.com/index.php?eID=download&buchnr=4931'
+#   url: ""
+# url_pdf: 'https://www.friedrich-verlag.de/shop/modellieren-anwendungen-realitaetsbezug-524229'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: ''
 # url_poster: ''
