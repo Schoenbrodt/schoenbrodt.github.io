@@ -25,7 +25,7 @@ publication_types: ["2"]
 publication: "*Der Mathematikunterricht*. Friedrich-Verlag, 70(1), 35-44" # "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-#abstract: '...'
+abstract: 'Mathematische Modellierung ist mittlerweile fester Bestandteil von Bildungsstandards und Lehrplänen. Es scheint also bildungspolitischer Konsens, dass mathematisches Modellieren im Mathematikunterricht stattfinden sollte. Nun kann man berechtigterweise hinterfragen, warum ausgerechnet die Mathematik / der Mathematikunterricht ein sinnvoller Ort für mathematisches Modellieren ist. Wäre es nicht ausreichend, Physiker:innen, Informatiker:innen oder Ingenieur:innen das Modellieren zu überlassen – also den Personen, aus deren Anwendungsbereich die Problemstellung stammt? Wir unternehmen in diesem Artikel den Versuch, diese Frage zu beantworten. Wir argumentieren, dass fundierte mathematische Überlegungen in der Modellierung eine Rolle spielen und die mathematische Modellierung sich durch ein Wechselspiel aus dem Anwendungszweck und dem mathematisch Möglichen auszeichnet. Dazu diskutieren wir exemplarisch mathematische Optimierungsprobleme, die sich bei der Bearbeitung von realen Fragestellungen aus ganz unterschiedlichen Lebensbereichen ergeben.'
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

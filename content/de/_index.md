@@ -248,18 +248,15 @@ sections:
                <li><b>Moderne Anwendungen der Mathematik computergestützt erarbeiten,</b> Workshop auf dem Lehrkräftetag der ISTRON-Herbsttagung, Wien, September 2023</li>
                <li><b>Opening the Blackbox - Ein allgemeinverständlicher Einblick in die Grundlagen der KI für alle Schulfächer,</b> eingeladener Vortrag im Rahmen der Fortbilungsreihe Chancen & Risiken der digitalen Transformation von ZSL und ZLB, Karlsruhe, Juni 2023</li>
                <li><b>Mathematische Modellierung und Data Science,</b> (mehrtägige) Fortbildung für teilnehmende Lehrkräfte der CAMMP week, Belgien, Juni 2023 </li>
-               <li><b>Moderne Anwendung computergestützt erarbeiten,</b> Workshop auf der Digitale Mathematische Werkzeuge-Tagung, Karlsruhe, März 2023</li>
-               </ul>
-               <h3>2022</h3> 
-               <ul>
-               <li><b>Grundlagen der KI und ihre Anwendung in allen Schulfächern,</b> Justus-Liebig-Universität Gießen, eingeladener Workshop (6-stündig) für (angehende) Lehrkräfte, online, November 2022</li>
-               <li><b>Digitales Lernmaterial zu KI und Data Science für den Mathematikunterricht,</b> Workshop auf dem Lehrkräftetag der ISTRON-Herbsttagung, Karlsruhe, November 2022</li>
-               <li><b>Chancen für Machine Learning im Mathematikunterricht,</b>  Lehrerfortbildung auf Einladung des Referats für Bildung und Sport der Landeshauptstadt München, München, September 2022</li>
+               <li><b>Moderne Anwendungen computergestützt erarbeiten,</b> Workshop auf der Digitale Mathematische Werkzeuge-Tagung, Karlsruhe, März 2023</li>
                </ul>
               <body>
           <details>
-              <summary style="font-size: 1.3em; font-weight: bold; cursor: pointer;">2018–2021</summary>
-               <ul>
+              <summary style="font-size: 1.3em; font-weight: bold; cursor: pointer;">2018–2022</summary>
+                <ul>
+               <li><b>Grundlagen der KI und ihre Anwendung in allen Schulfächern,</b> Justus-Liebig-Universität Gießen, eingeladener Workshop (6-stündig) für (angehende) Lehrkräfte, online, November 2022</li>
+               <li><b>Digitales Lernmaterial zu KI und Data Science für den Mathematikunterricht,</b> Workshop auf dem Lehrkräftetag der ISTRON-Herbsttagung, Karlsruhe, November 2022</li>
+               <li><b>Chancen für Machine Learning im Mathematikunterricht,</b>  Lehrerfortbildung auf Einladung des Referats für Bildung und Sport der Landeshauptstadt München, München, September 2022</li>
                <li>Eingeladener Workshop für Lehramtsstudierende im Seminar Anwendungsorientierter Mathematikunterricht, TU Darmstadt, online, Juni 2021</li>
                <li><b>Material für computergestützte Solarenergieforschung mit Schüler/innen,</b> Lehrerfortbildung im Rahmen des MINT-Kongress, online, November 2020 </li>
                <li>Workshop für Lehramtsstudierende im Seminar Digitale Werkzeuge für den Mathematikunterricht, KIT, online, Juli 2020</li>
@@ -277,7 +274,7 @@ sections:
                <li><b>SoSe 21:</b> Gestaltung und Durchführung des <a href="https://www.scc.kit.edu/forschung/14727.php">Schnupperkurses Mathematik des KIT</a> </li>
               <li><b>Seit 2020:</b> Gestaltung und Durchführung von Workshops zu KI im Rahmen von<a href="https://ki-macht-schule.de/"> KI macht Schule</a>, Deutschland und Österreich</li>
                <li><b>10/2019:</b> Gestaltung und Durchführung von mathematischen Modellierungstagen an der Autonomous University of Baja California, Tijuana, Mexiko</li>
-               <li><b>Seit 2019:</b> Organisation und Betreuung von diversen mathematischen Modellierungswochen für Schüler:innen (<a href="https://www.cammp.online/21.php">CAMMP week</a>)</li> 
+               <li><b>2019-2023:</b> Organisation und Betreuung von mathematischen Modellierungswochen für Schüler:innen (<a href="https://www.cammp.online/21.php">CAMMP week</a>)</li> 
                <li><b>Seit 2015:</b> Organisation, Gestaltung und Betreuung zahlreicher mathematischer Modellierungstage für Schüler:innen (<a href="https://www.cammp.online/116.php">CAMMP day</a>, Aachen, Karlsruhe und Salzburg)</li>  
                <li><b>2017:</b> Vertretungslehrkraft am Einhard-Gymnasium Aachen</li>
                </ul>
@@ -286,7 +283,7 @@ sections:
                     <img src="/images/cammp.png" alt="CAMMP logo" style="max-width: 100%; height: auto;">
                 </a>
                 <a href="https://ki-macht-schule.de/" style="width: 45%; text-align: center;">
-                    <img src="/images/kims2.svg" alt="KImS Logo" style="max-width: 100%; height: auto;">
+                    <img src="/images/kims2.svg" alt="KImS Logo" style="max-width: 90%; height: auto;">
                 </a>
                 </div>
     design:
