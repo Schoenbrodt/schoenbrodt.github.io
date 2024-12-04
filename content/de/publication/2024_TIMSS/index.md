@@ -1,43 +1,45 @@
 ---
-title: "KI im Biologieunterricht: Von den Grundlagen zur praxisorientierten Anwendung"
+title: "TIMSS 2023: Zusammenfassung und Diskussion der Ergebnisse" 
 authors:
-- Lena von Kotzebue
-- Freya Steinacher
+- Christina Wallner-Paschon 
+- Lisa Wiesinger
 - admin
+- Lana Ivanjek
+
 
 
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 # date: "2015-09-01T00:00:00Z"
-#doi: "10.18420/delfi2024-ws-21"
+doi: "http://doi.org/10.17888/timss2023-eb"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-07-10T00:00:00Z"
+publishDate: "2024-12-02T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["6"]
+publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In: J. Huwer et al. (Hrsg.). Kompetenzen für den Unterricht mit und über Künstliche Intelligenz. Perspektiven, Orientierungshilfen und Praxisbeispiele für die Lehramtsausbildung in den Naturwissenschaften. Watzmann-Verlag" # "*Journal of Source Themes, 1*(1)"
+publication: "In: Wallner-Paschon, C. & Wiesinger, L. *TIMSS 2023 Ergebnisbericht*, S. 123–138" # "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-#abstract: '...'
+#abstract:  
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-#- Source Themes
+- Source Themes
 featured: false
 
 # links:
 # - name: ""
-#url: "https://dikolan.de/dikolan-ki"
-url_pdf: 'https://www.waxmann.com/index.php?eID=download&buchnr=4931'
+#   url: ""
+url_pdf: 'http://doi.org/10.17888/timss2023-eb'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: ''
 # url_poster: ''

@@ -142,10 +142,10 @@ sections:
               <li><b>Springer BestMasters,</b> Auszeichnung für eine herausragende Masterarbeit, 2018</li>
               <li><b>Brigitte Gilles Preis der RWTH Aachen,</b>  Preis für die Förderung von Schülerinnen im MINT-Bereich im Rahmen des Schülerlabors CAMMP, 2018</li>
               <li><b>Schöneborn Preis der RWTH Aachen,</b> Preis für den besten Abschluss im Bachelor Lehramt Chemie, 2016</li>
-              <li><b>Dean’s List der RWTH Aachen,</b> Auszeichnung für herausragende Studienleistungen (top 5% des jeweiligen Jahrgangs), 2013–2018</li>
+              <li><b>Dean’s List der RWTH Aachen,</b> Auszeichnung für herausragende Studienleistungen (top 5% des  Jahrgangs), 2013–2018</li>
               <li><b>Stipendium des Westfälischen Arbeitgeberverbands,</b> Förderung begabter Studierender in MINT-Fächern, 2013–2017 </li>
               <li><b>Stipendium der Stiftung der deutschen Wirtschaft,</b> Förderung begabter Studierender basierend auf herausragenden Studienleistungen und extracurricularem Engagement, 2012–2018</li>
-              <li><b>Abiturpreise von DMV und GDCh</b> für herausragende Abiturleistungen in Mathematik und Chemie, 2012</li> 
+              <li><b>Abiturpreise von DMV und GDCh</b> für herausragende Leistungen in Mathematik und Chemie, 2012</li> 
               </ul>
     design:
       columns: '2'
