@@ -22,7 +22,7 @@ publishDate: "2024-11-13T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*(im Druck). Mathematik im Unterricht*" # "*Journal of Source Themes, 1*(1)"
+publication: "*Mathematik im Unterricht*, 15, 17–36" # "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
 abstract: 'Im aktuellen politischen Diskurs nimmt Künstliche Intelligenz (KI) eine herausragende Stellung ein. Die Erwartung, dass durch KI-Systeme die Lebens- und Arbeitsverhältnisse grundlegend transformiert werden, weist der Schule die Aufgabe zu, Lernende zu einem reflektierten, informierten Umgang mit ebendiesen Technologien und zugrundeliegenden Methoden zu befähigen. Alle verbreiteten KI-Anwendungen basieren wesentlich auf mathematischen Grundlagen und es stellt sich die Frage, inwieweit eine Beschäftigung mit diesen Grundlagen möglich und sinnvoll ist. Dies wird im Beitrag sowohl theoretisch als auch auf Basis von konkreten Ideen für den Unterricht diskutiert.'
