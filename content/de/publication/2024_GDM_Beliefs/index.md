@@ -1,20 +1,22 @@
 ---
-title: "Förderung von Epistemic Agency – Entwicklung von Computational Essays bei der Bearbeitung datengetriebener, realer Problemstellungen"
+title: "Ist KI mehr als ChatGPT? Wertüberzeugungen und Beliefs Jugendlicher zu Künstlicher Intelligenz"
 authors:
-- Sven Hüsing
+- Sebastian Bauer
+- Sebastian Geisler
+- Stephanie Hofmann
+- Marielena Menzel
 - admin
-
-
+- Benedikt Weygandt
 
 
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 # date: "2015-09-01T00:00:00Z"
-# doi: "http://dx.doi.org/10.17877/DE290R-23426"
+doi: "http://dx.doi.org/10.17877/DE290R-24796"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-07-20T00:00:00Z"
+publishDate: "2024-07-19T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,7 +28,7 @@ publication_types: ["1"]
 publication: "In: Beiträge zum Mathematikunterricht 2024, WTM-Verlag" # "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: 'In diesem Beitrag stellen wir ein Konzept zur Förderung der Epistemic Agency von Schüler:innen im Rahmen der projektartigen Bearbeitung von datengetriebenen, realen Problemstellungen vor. Dabei entwickeln Schüler:innen sogenannte Computational Essays als Produkte ihrer Modellierungs- und Programmierprozesse, welche die Problemlösung und den Prozess nachvollziehbar und reproduzierbar machen sollen. Im Beitrag berichten wir von einer ersten Umsetzung dieses Konzeptes im Rahmen der Modellierungswoche des Schüler:innenprogramms CAMMP sowie ersten Erkenntnissen der Pilotierung.'
+abstract: 'Dieses Projekt untersucht die Wertüberzeugungen und Beliefs Jugendlicher bezüglich Künstlicher Intelligenz (KI). Auf Grundlage der Erwartungs-Wert-Theorie wurde ein etablierter Fragebogen zu Wertüberzeugungen hinsichtlich KI adaptiert und offene Items zu KI-bezogenen Beliefs entwickelt. In einem Querschnitt mit Schüler:innen ab Klasse 9 werden die Items pilotiert und ein Überblick über bestehende Überzeugungen erhoben. Anschließend wird in einem Pre-Post-Test-Design der Einfluss von Workshops zu den mathematischen Hintergründen von KI auf die Überzeugungen Jugendlicher untersucht.'
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -38,7 +40,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'http://dx.doi.org/10.17877/DE290R-25018'
+url_pdf: 'https://eldorado.tu-dortmund.de/server/api/core/bitstreams/c0462ea8-953e-4735-bc41-5ea9463596cb/content'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: ''
 # url_poster: ''

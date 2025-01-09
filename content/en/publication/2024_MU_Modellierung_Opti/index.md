@@ -1,9 +1,8 @@
 ---
-title: "Förderung von Epistemic Agency – Entwicklung von Computational Essays bei der Bearbeitung datengetriebener, realer Problemstellungen"
+title: "Wie viel Mathe steckt in mathematischer Modellierung? – Eine Antwort am Beispiel der Optimierung"
 authors:
-- Sven Hüsing
 - admin
-
+- Martin Frank
 
 
 
@@ -11,22 +10,22 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 # date: "2015-09-01T00:00:00Z"
-# doi: "http://dx.doi.org/10.17877/DE290R-23426"
+# doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-07-20T00:00:00Z"
+publishDate: "2024-01-10T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In: Beiträge zum Mathematikunterricht 2024, WTM-Verlag" # "*Journal of Source Themes, 1*(1)"
+publication: "*Der Mathematikunterricht*. Friedrich-Verlag, 70(1), 35-44" # "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: 'In diesem Beitrag stellen wir ein Konzept zur Förderung der Epistemic Agency von Schüler:innen im Rahmen der projektartigen Bearbeitung von datengetriebenen, realen Problemstellungen vor. Dabei entwickeln Schüler:innen sogenannte Computational Essays als Produkte ihrer Modellierungs- und Programmierprozesse, welche die Problemlösung und den Prozess nachvollziehbar und reproduzierbar machen sollen. Im Beitrag berichten wir von einer ersten Umsetzung dieses Konzeptes im Rahmen der Modellierungswoche des Schüler:innenprogramms CAMMP sowie ersten Erkenntnissen der Pilotierung.'
+abstract: 'Mathematische Modellierung ist mittlerweile fester Bestandteil von Bildungsstandards und Lehrplänen. Es scheint also bildungspolitischer Konsens, dass mathematisches Modellieren im Mathematikunterricht stattfinden sollte. Nun kann man berechtigterweise hinterfragen, warum ausgerechnet die Mathematik / der Mathematikunterricht ein sinnvoller Ort für mathematisches Modellieren ist. Wäre es nicht ausreichend, Physiker:innen, Informatiker:innen oder Ingenieur:innen das Modellieren zu überlassen – also den Personen, aus deren Anwendungsbereich die Problemstellung stammt? Wir unternehmen in diesem Artikel den Versuch, diese Frage zu beantworten. Wir argumentieren, dass fundierte mathematische Überlegungen in der Modellierung eine Rolle spielen und die mathematische Modellierung sich durch ein Wechselspiel aus dem Anwendungszweck und dem mathematisch Möglichen auszeichnet. Dazu diskutieren wir exemplarisch mathematische Optimierungsprobleme, die sich bei der Bearbeitung von realen Fragestellungen aus ganz unterschiedlichen Lebensbereichen ergeben.'
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -38,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'http://dx.doi.org/10.17877/DE290R-25018'
+url_pdf: 'https://www.friedrich-verlag.de/shop/modellieren-anwendungen-realitaetsbezug-524229'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: ''
 # url_poster: ''

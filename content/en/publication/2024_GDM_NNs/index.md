@@ -12,7 +12,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 # date: "2015-09-01T00:00:00Z"
-# doi: "http://dx.doi.org/10.17877/DE290R-23426"
+doi: "http://dx.doi.org/10.17877/DE290R-25009"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-07-19T00:00:00Z"
@@ -24,7 +24,7 @@ publishDate: "2024-07-19T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*(im Druck)*. In: Beiträge zum Mathematikunterricht 2024, WTM-Verlag" # "*Journal of Source Themes, 1*(1)"
+publication: "In: Beiträge zum Mathematikunterricht 2024, WTM-Verlag" # "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
 abstract: 'In diesem Beitrag stellen wir ein Konzept zur Förderung der Epistemic Agency von Schüler:innen im Rahmen der projektartigen Bearbeitung von datengetriebenen, realen Problemstellungen vor. Dabei entwickeln Schüler:innen sogenannte Computational Essays als Produkte ihrer Modellierungs- und Programmierprozesse, welche die Problemlösung und den Prozess nachvollziehbar und reproduzierbar machen sollen. Im Beitrag berichten wir von einer ersten Umsetzung dieses Konzeptes im Rahmen der Modellierungswoche des Schüler:innenprogramms CAMMP sowie ersten Erkenntnissen der Pilotierung.'
@@ -39,7 +39,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-# url_pdf: 'https://eldorado.tu-dortmund.de/bitstream/2003/41583/1/BzMU22_165.pdf'
+url_pdf: 'https://eldorado.tu-dortmund.de/server/api/core/bitstreams/4b9a555d-9920-4279-9a35-ff1f4a69cfc1/content'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: ''
 # url_poster: ''

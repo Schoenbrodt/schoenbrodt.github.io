@@ -1,9 +1,8 @@
 ---
-title: "Förderung von Epistemic Agency – Entwicklung von Computational Essays bei der Bearbeitung datengetriebener, realer Problemstellungen"
+title: "Mathematische Grundlagen als Schlüssel zu einem allgemeinbildenden Verständnis von KI: Theoretische Perspektiven und praktische Unterrichtsideen"
 authors:
-- Sven Hüsing
 - admin
-
+- Reinhard Oldenburg
 
 
 
@@ -11,22 +10,22 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 # date: "2015-09-01T00:00:00Z"
-# doi: "http://dx.doi.org/10.17877/DE290R-23426"
+# doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-07-20T00:00:00Z"
+publishDate: "2024-11-13T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In: Beiträge zum Mathematikunterricht 2024, WTM-Verlag" # "*Journal of Source Themes, 1*(1)"
+publication: "*Mathematik im Unterricht*, 15, 17–36" # "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: 'In diesem Beitrag stellen wir ein Konzept zur Förderung der Epistemic Agency von Schüler:innen im Rahmen der projektartigen Bearbeitung von datengetriebenen, realen Problemstellungen vor. Dabei entwickeln Schüler:innen sogenannte Computational Essays als Produkte ihrer Modellierungs- und Programmierprozesse, welche die Problemlösung und den Prozess nachvollziehbar und reproduzierbar machen sollen. Im Beitrag berichten wir von einer ersten Umsetzung dieses Konzeptes im Rahmen der Modellierungswoche des Schüler:innenprogramms CAMMP sowie ersten Erkenntnissen der Pilotierung.'
+abstract: 'Im aktuellen politischen Diskurs nimmt Künstliche Intelligenz (KI) eine herausragende Stellung ein. Die Erwartung, dass durch KI-Systeme die Lebens- und Arbeitsverhältnisse grundlegend transformiert werden, weist der Schule die Aufgabe zu, Lernende zu einem reflektierten, informierten Umgang mit ebendiesen Technologien und zugrundeliegenden Methoden zu befähigen. Alle verbreiteten KI-Anwendungen basieren wesentlich auf mathematischen Grundlagen und es stellt sich die Frage, inwieweit eine Beschäftigung mit diesen Grundlagen möglich und sinnvoll ist. Dies wird im Beitrag sowohl theoretisch als auch auf Basis von konkreten Ideen für den Unterricht diskutiert.'
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -38,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'http://dx.doi.org/10.17877/DE290R-25018'
+# url_pdf: 'https://www.friedrich-verlag.de/shop/modellieren-anwendungen-realitaetsbezug-524229'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: ''
 # url_poster: ''

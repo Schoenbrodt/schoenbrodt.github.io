@@ -12,7 +12,8 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 # date: "2015-09-01T00:00:00Z"
-# doi: ""
+publishDate: "2024-07-10T00:00:00Z"
+
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-07-10T00:00:00Z"
@@ -24,7 +25,7 @@ publishDate: "2024-07-10T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*(im Druck)*. Kompetenzen für den Unterricht mit und über Künstliche Intelligenz. Perspektiven, Orientierungshilfen und Praxisbeispiele für die Lehramtsausbildung in den Naturwissenschaften" # "*Journal of Source Themes, 1*(1)"
+publication: "In: J. Huwer et al. (Hrsg.). Kompetenzen für den Unterricht mit und über Künstliche Intelligenz. Perspektiven, Orientierungshilfen und Praxisbeispiele für die Lehramtsausbildung in den Naturwissenschaften. Watzmann-Verlag" # "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
 #abstract: '...'
@@ -39,7 +40,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-# url_pdf: 'https://www.friedrich-verlag.de/shop/ki-verstehen-wie-maschinen-lernen-58244'
+url_pdf: 'https://www.waxmann.com/index.php?eID=download&buchnr=4931'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: ''
 # url_poster: ''

@@ -46,7 +46,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf: 'https://hal.archives-ouvertes.fr/hal-03754716/'
+url_pdf: 'https://hal.science/hal-04420534v1'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''

@@ -1,8 +1,9 @@
 ---
-title: "Förderung von Epistemic Agency – Entwicklung von Computational Essays bei der Bearbeitung datengetriebener, realer Problemstellungen"
+title: "Projektkurs: Mädels machen MI(N)T – KI-Bildung und Mädchenförderung"
 authors:
-- Sven Hüsing
+- Stephanie Hofmann
 - admin
+- Stephan Kindler
 
 
 
@@ -11,10 +12,10 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 # date: "2015-09-01T00:00:00Z"
-# doi: "http://dx.doi.org/10.17877/DE290R-23426"
+doi: "http://dx.doi.org/10.17877/DE290R-24890"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-07-20T00:00:00Z"
+publishDate: "2024-07-19T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,7 +27,7 @@ publication_types: ["1"]
 publication: "In: Beiträge zum Mathematikunterricht 2024, WTM-Verlag" # "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: 'In diesem Beitrag stellen wir ein Konzept zur Förderung der Epistemic Agency von Schüler:innen im Rahmen der projektartigen Bearbeitung von datengetriebenen, realen Problemstellungen vor. Dabei entwickeln Schüler:innen sogenannte Computational Essays als Produkte ihrer Modellierungs- und Programmierprozesse, welche die Problemlösung und den Prozess nachvollziehbar und reproduzierbar machen sollen. Im Beitrag berichten wir von einer ersten Umsetzung dieses Konzeptes im Rahmen der Modellierungswoche des Schüler:innenprogramms CAMMP sowie ersten Erkenntnissen der Pilotierung.'
+abstract: 'Angesichts des geringen Frauenanteils in MINT-Berufen und der wachsenden Bedeutung dieser Berufe im Zeitalter der KI widmet sich dieser Vortrag dem Konzept eines außerunterrichtlichen Lernangebotes für junge Frauen zum Thema KI. Dieses vermittelt Schülerinnen ab Klasse 10 die mathematischen, informatischen und ethischen Grundlagen der KI. Durch problemorientierte Praxisphasen und Begegnungen mit weiblichen Role Models aus Data Science Berufen sollen Gender-Stereotypen durchbrochen und die Motivation junger Frauen für KI sowie für mathematische oder informatische Studiengänge gestärkt werden.'
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -38,7 +39,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'http://dx.doi.org/10.17877/DE290R-25018'
+url_pdf: 'http://dx.doi.org/10.17877/DE290R-24890'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: ''
 # url_poster: ''
