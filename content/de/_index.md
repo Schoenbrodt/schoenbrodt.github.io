@@ -235,6 +235,11 @@ sections:
       subtitle: Lehrkräftefortbildungen und Schulprojekte
       text: |
         <h2>Aus- und Fortbildung von Lehrkräften</h2>
+        <h3>2025</h3> 
+        <ul>
+          <li><b>Bildung über KI im Mathematikunterricht,</b> zwei eintägige Fortbildungen auf Einladung der Deutschschweizerische Mathematikkommission und ETH, Zürich, März 2025</li>
+          <li><b>Mit Mathematik zu einem allgemeinbildenden Verständnis von Künstlicher Intelligenz,</b>  Vortrag auf dem Tag der Mathematik für Lehkräfte in Schwaben, Augsburg, März 2025</li>
+        </ul>
         <h3>2024</h3> 
         <ul>
           <li><b>KI-Bildung im Mathematikunterricht,</b> eingeladener Workshop auf dem <a href="https://math.ch/TMU2024/">34. Schweizerischen Tag über Mathematik und Unterricht 2024</a>, Zürich, September 2024</li>
