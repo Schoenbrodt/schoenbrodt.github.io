@@ -37,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-# url_pdf: 'https://www.friedrich-verlag.de/shop/modellieren-anwendungen-realitaetsbezug-524229'
+url_pdf: 'https://eplus.uni-salzburg.at/download/pdf/11608126.pdf'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: ''
 # url_poster: ''
