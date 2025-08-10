@@ -23,10 +23,10 @@ publishDate: '2025-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['0']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: "(*angenommen*). In: Fourteenth Congress of the European Society for Research in Mathematics Education (CERME14)"
+publication: "In: Proceedings of the Fourteenth Congress of the European Society for Research in Mathematics Education (CERME14)"
 # publication_short: In *ICW*
 
 abstract: Technologies based on data-driven machine learning (ML) methods have taken on a central role in our economy, technology and everyday life. The underlying principles of various ML methods are grounded in data and mathematical concepts often embedded in elementary form within high school mathematics curricula. In this paper, we propose using classification problems and the Support Vector Machine (SVM), a supervised ML method, to introduce students to data-driven ML techniques. We provide a didactical analysis of the SVM and present elementarizations and intended learning trajectories for both lower and upper secondary education, enabling students to comprehend key mathematical ideas underlying the SVM, which are representative of many ML methods. We address necessary prior mathematical knowledge and discuss how to balance black box and white box approaches when exploring the SVM. 
@@ -45,7 +45,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-#url_pdf: ''
+url_pdf: 'https://hal.science/hal-05199889/'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''

@@ -24,7 +24,7 @@ publishDate: "2024-12-02T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In: Wallner-Paschon, C. & Wiesinger, L. *TIMSS 2023 Ergebnisbericht*, S. 123–138" # "*Journal of Source Themes, 1*(1)"
+publication: "In: Wallner-Paschon, C. & Wiesinger, L. *TIMSS 2023 Ergebnisbericht*, pp. 123–138" # "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
 #abstract:  

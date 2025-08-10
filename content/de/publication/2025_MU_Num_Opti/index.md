@@ -22,7 +22,7 @@ publishDate: "2025-01-10T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "(eingereicht) *Der Mathematikunterricht*. Friedrich-Verlag" # "*Journal of Source Themes, 1*(1)"
+publication: "(im Druck) *Der Mathematikunterricht*. Friedrich-Verlag" # "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
 abstract: ''
