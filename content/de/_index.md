@@ -229,7 +229,6 @@ sections:
               <li>M.P. (2025). KI-Bildung im Mathematikunterricht -- Entwicklung und Erprobung einer Unterrichtseinheit zur k-Nächste-Nachbarn-Klassifikation, Masterarbeit, Universität Salzburg</li>
               <li>A.E. (2025). Angstfach Mathe -- Ist Mathematikangst an Oberösterreichs Schulen ein reales Problem?, Masterarbeit, Universität Salzburg</li>
               <li>L.Q. (2025). Klassifizierungsprobleme und maschinelles Lernen in der Sekundarstufe I, Masterarbeit, Universität Salzburg</li>
-
               <li>S.D. (2023). Optimierung von Windkraftwerken als Thema interdisziplinärer, computergestützter Modellierungsprojekte, Bachelorarbeit, KIT.  </li>
                <li>R.M. (2023). Empfehlungssysteme und KI – Entwicklung und Erprobung eines interdisziplinären Lernmoduls zum Thema KI in der Medienbranche, Masterarbeit, KIT.</li>
                <li>K.H. (2022). Aktivitätserkennung auf dem Smartphone – Entwicklung von Unterrichtsmaterial für computergestützte mathematische Modellierungsprojekte, Masterarbeit, KIT. Ausgezeichnet durch den Lehramtspreis der Konferenz der mathematischen Fachbereiche (KMatHF), s. <a href="https://www.degruyter.com/document/doi/10.1515/dmvm-2024-0050/html">DMV-Bericht</a>

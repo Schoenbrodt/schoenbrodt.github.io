@@ -1,6 +1,7 @@
 ---
-title: "Numerische Optimierung: Vom Bergsteigerverfahren zum Gradientenabstieg"
+title: "Zugang zu künstlichen neuronalen Netzen mittels Funktionsuntersuchung"
 authors:
+- Stephan Kindler
 - admin
 - Martin Frank
 
@@ -22,10 +23,10 @@ publishDate: "2025-01-10T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Der Mathematikunterricht*. Friedrich-Verlag" # "*Journal of Source Themes, 1*(1)"
+publication: "(accepted). *Der Mathematikunterricht*. Friedrich-Verlag" # "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: ''
+abstract: 'KI durchdringt immer mehr Bereiche unseres Lebens. Es ist unerlässlich, dass Schüler:innen ein umfassendes Verständnis der Funktionsweise dieser Technologie erwerben, um das Potenzial verantwortungsvoll zu nutzen und Grenzen und Gefahren reflektiert einschätzen zu können. Die Förderung von AI Literacy geht über den Informatikunterricht hinaus und wird zur Aufgabe des gesamten Schulsystems. Aufgrund der zentralen Rolle der Mathematik bei der Entwicklung von KI-Systemen kann der Mathematikunterricht einen wesentlichen Beitrag leisten. So sind die Grundbausteine künstlicher neuronaler Netze einfache mathematische Funktionen, welche vielfach verkettet sind. Durch die Analyse solcher Funktionen kann der Mathematikunterricht wesentlich zum Verständnis und zur Entmystifizierung von allgegenwärtigen KI-Anwendungen beitragen.'
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -37,7 +38,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://www.friedrich-verlag.de/shop/numerische-mathematik-524235'
+# url_pdf: 'https://www.friedrich-verlag.de/shop/modellieren-anwendungen-realitaetsbezug-524229'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: ''
 # url_poster: ''
