@@ -37,6 +37,7 @@ sections:
             * Forschung im Bereich Mathematikdidaktik und KI-Bildung
             * Beirat der Ditact
             * Leitung Schüler:innenprogramm CAMMP Salzburg
+            * Mitglied der Ethikkommission, des Fachbereichsrats und des Fakultätsrats
         - title: PostDoc und Nachwuchsgruppenleiterin
           company: Karlsruher Institut für Technologie
           company_url: 'https://www.kit.edu/'
@@ -181,6 +182,11 @@ sections:
         subtitle: Lehrveranstaltungen und betreute Abschlussarbeiten
         text: |
             <h2>Universitäre Lehre</h2>
+              <h3>SoSe 25</h3>
+              <ul>
+              <li>Vorlesung <i>Einführung in die Mathematikdidaktik I</i>, Universität Salzburg</li>
+              <li><i>Seminar Fachdidaktisches Projekt: Aktuelle Themen der Didaktik der Mathematik</i>, Universität Salzburg</li>
+              </ul>
               <h3>WiSe 24/25</h3>
               <ul>
               <li>Vorlesung <i>Einführung in die Mathematikdidaktik II</i>, Universität Salzburg</li>
@@ -217,10 +223,16 @@ sections:
               </details>
               <h2>Betreute Abschlussarbeiten</h2>
               <ul>
+              <li>S. U. (laufend). Förderung von Critical Statistical Literacy: Fairness in datengetriebenen Entscheidungssystemen/li>
+              <li>A.F. (laufend). Intelligente Tutorensysteme zur Förderung von mathematischer Modellierungskompetenz, Masterarbeit, Universität Salzburg</li>
+              <li>T.L. (2025). Förderung von Epistemic Agency -- Computational Essays in computergestützten mathematischen Modellierungswochen, Masterarbeit, Universität Salzburg</li>
+              <li>M.P. (2025). KI-Bildung im Mathematikunterricht -- Entwicklung und Erprobung einer Unterrichtseinheit zur k-Nächste-Nachbarn-Klassifikation, Masterarbeit, Universität Salzburg</li>
+              <li>A.E. (2025). Angstfach Mathe -- Ist Mathematikangst an Oberösterreichs Schulen ein reales Problem?, Masterarbeit, Universität Salzburg</li>
+              <li>L.Q. (2025). Klassifizierungsprobleme und maschinelles Lernen in der Sekundarstufe I, Masterarbeit, Universität Salzburg</li>
+
               <li>S.D. (2023). Optimierung von Windkraftwerken als Thema interdisziplinärer, computergestützter Modellierungsprojekte, Bachelorarbeit, KIT.  </li>
                <li>R.M. (2023). Empfehlungssysteme und KI – Entwicklung und Erprobung eines interdisziplinären Lernmoduls zum Thema KI in der Medienbranche, Masterarbeit, KIT.</li>
                <li>K.H. (2022). Aktivitätserkennung auf dem Smartphone – Entwicklung von Unterrichtsmaterial für computergestützte mathematische Modellierungsprojekte, Masterarbeit, KIT. Ausgezeichnet durch den Lehramtspreis der Konferenz der mathematischen Fachbereiche (KMatHF), s. <a href="https://www.degruyter.com/document/doi/10.1515/dmvm-2024-0050/html">DMV-Bericht</a>
-
                </li>
                <li>L.R. (2021). Empfehlungssysteme basierend auf Nachbarschaftsmethoden – mathematisch-fachliche Diskussion und Entwicklung digitalen Lernmaterials zur Netflix Challenge für Schüler*innen der Sekundarstufe II, Bachelorarbeit, KIT. </li>
                <li>K.H. (2020).  Entwicklung von Unterrichtsmaterial zum Thema Solarenergie im Rahmen eines interdisziplinären mathematischen Modellierungsprojektes, Bachelorarbeit, KIT.</li>
@@ -237,8 +249,9 @@ sections:
         <h2>Aus- und Fortbildung von Lehrkräften</h2>
         <h3>2025</h3> 
         <ul>
+          <li><b>KI als Thema für den Mathematikunterricht</b>, Organisation  Lehrerfortbildungsprogramms am Tag des Mathe-Cups inkl. Vortrag, Salzburg, April 2025</li>
           <li><b>Bildung über KI im Mathematikunterricht,</b> zwei eintägige Fortbildungen auf Einladung der Deutschschweizerische Mathematikkommission und ETH, Zürich, März 2025</li>
-          <li><b>Mit Mathematik zu einem allgemeinbildenden Verständnis von Künstlicher Intelligenz,</b>  Vortrag auf dem Tag der Mathematik für Lehkräfte in Schwaben, Augsburg, März 2025</li>
+          <li><b>Mit Mathematik zu einem allgemeinbildenden Verständnis von Künstlicher Intelligenz,</b>  Vortrag auf dem Tag der Mathematik für Lehrkräfte in Schwaben, Universität Augsburg, März 2025</li>
         </ul>
         <h3>2024</h3> 
         <ul>

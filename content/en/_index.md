@@ -31,6 +31,13 @@ sections:
           location: Salzburg, Austria
           date_start: '2023-11-01'
           date_end: ''
+          description: |2-
+              Activities include: 
+              * Teaching in mathematics teacher education
+              * Research in mathematics education and AI education
+              * Member of the advisory board of ditact
+              * Head of the CAMMP Salzburg student program
+              * Member of the ethics committee
         - title: PostDoc and group leader
           company: Karlsruhe Institute of Technology
           company_url: 'https://www.kit.edu/'
@@ -170,17 +177,30 @@ sections:
     content:
         title: Teaching
         subtitle: Courses and supervised students
-        text: <h2>University Teaching</h2>
-              <h3>Summer Semesters 2024</h3>
+        text: |
+              <h2>University Teaching</h2>
+               <h3>Summer Semester 2025</h3>
               <ul>
-              <li>Lecture <i>Introduction to didactics for mathematics I</i>, Universität Salzburg</li>
-              <li>Lecture <i>Introduction to didactics for mathematics II</i>, Universität Salzburg</li>
-              <li><i>Master's thesis (M.Ed.) Seminar for Mathematics</i>, University Salzburg</li>
+              <li>Lecture <i>Introduction to didactics for mathematics I</i>,  Salzburg University</li>
+              <li>Seminar<i>Subject-Specific Didactics Project -- Current Topics in Mathematics Education</i>, Salzburg University </li>
+              </ul>
+              <h3>Winter Semester 2024/25</h3>
+              <ul>
+              <li>Lecture <i>Introduction to didactics for mathematics II</i>,  Salzburg University</li>
+              <li><i>Didactics seminar</i>,  Salzburg University</li>
+              </ul>
+
+
+              <h3>Summer Semester 2024</h3>
+              <ul>
+              <li>Lecture <i>Introduction to didactics for mathematics I</i>,  Salzburg University</li>
+              <li>Lecture <i>Introduction to didactics for mathematics II</i>,  Salzburg University</li>
+              <li><i>Master's thesis (M.Ed.) Seminar for Mathematics</i>,  Salzburg University</li>
               </ul>
               <h3>Winter Semester 2023/24</h3>
               <ul>
-              <li><i>Master's thesis (M.Ed.) Seminar for Mathematics</i>, University Salzburg</li>
-              <li><i>Didactics seminar</i>, University Salzburg</li>
+              <li><i>Master's thesis (M.Ed.) Seminar for Mathematics</i>,  Salzburg University</li>
+              <li><i>Didactics seminar</i>,  Salzburg University</li>
               </ul>
               <h3>Summer Semester 2023</h3>
               <ul>
@@ -192,29 +212,24 @@ sections:
               <li>Seminar <i>Fundamentals of Artificial Intelligence and its Application in all School Subjects</i>, University of Konstanz</li>
               <li>Seminar <i>Digital-Based Learning Contexts in Mathematics Education</i>, KIT</li>
               </ul>
-              <h3>Winter Semester 2021/22</h3>
+
+              <details>
+              <summary style="font-size: 1.3em; font-weight: bold; cursor: pointer;">2014–2021</summary>
               <ul>
-              <li>Seminar <i>Fundamentals of Artificial Intelligence and its Application in all School Subjects</i>, University of Konstanz</li>
+              <li><b>Winter Semester 21/22:</b> Block seminar <i>Fundamentals of Artificial Intelligence and its Application in All School Subjects</i>, University of Konstanz</li>
+              <li><b>Winter Semester 19/20, Summer Semester 20, Winter Semester 20/21:</b> Seminar <i>Individual Subject-Specific Didactics Project</i>, Karlsruhe Institute of Technology (KIT)</li>
+              <li><b>Summer Semesters 2018 and 2019:</b> <i>Excursion Week on Mathematical Modeling (CAMMP week Pro)</i>, seminar for students in the B.Sc./M.Sc. Mathematics, Simulation Science, and CES programs, RWTH Aachen University</li>
+              <li><b>Winter Semester 2014/15:</b> Tutor for Higher Mathematics I, RWTH Aachen University</li>
               </ul>
-              <h3>Winter Semester 2020/21</h3>
-              <ul>
-              <li>Seminar <i>Individual Subject Didactics Project</i>, KIT</li>
-              </ul>
-              <h3>Summer Semester 2020</h3>
-              <ul>
-              <li>Seminar <i>Individual Subject Didactics Project</i>, KIT</li>
-              </ul>
-              <h3>Winter Semester 2019/20</h3>
-              <ul>
-              <li>Seminar <i>Individual Subject Didactics Project</i>, KIT</li>
-              </ul>
-              <h3>2014-2019:</h3>
-              <ul>
-              <li><b>Summer Semesters 2018 and 2019:</b> <i>Excursion Week on Mathematical Modeling (CAMMP week Pro)</i>, Seminar for B.Sc./M.Sc. Mathematics, Simulation Science, and CES Students, RWTH Aachen</li>
-              <li><b>Winter Semester 2014/15:</b> Tutor for Higher Mathematics I, RWTH Aachen</li>
-              </ul>
+              </details>
               <h2>Supervised Theses</h2>
               <ul>
+              <li>S. U. (ongoing). Promoting Critical Statistical Literacy: Fairness in Data-Driven Decision-Making Systems</li>
+              <li>A. F. (ongoing). Intelligent Tutoring Systems for Fostering Mathematical Modeling Competence, Master’s Thesis, University of Salzburg</li>
+              <li>T. L. (2025). Promoting Epistemic Agency – Computational Essays in Computer-Supported Mathematical Modeling Weeks, Master’s Thesis, University of Salzburg</li>
+              <li>M. P. (2025). AI Education in Mathematics Teaching – Development and Testing of a Teaching Unit on k-Nearest Neighbors Classification, Master’s Thesis, University of Salzburg</li>
+              <li>A. E. (2025). The "Scary Subject" Math – Is Math Anxiety a Real Problem in Upper Austria’s Schools?, Master’s Thesis, University of Salzburg</li>
+              <li>L. Q. (2025). Classification Problems and Machine Learning in Lower Secondary Education, Master’s Thesis, University of Salzburg</li>
               <li>Diehle, S. (2023). Optimization of Wind Turbines as a Topic for Interdisciplinary Computer-Aided Modeling Projects, Bachelor's Thesis, KIT.</li>
               <li>Maier, R. (2023). Recommender Systems and Artificial Intelligence – Development and Evaluation of an Interdisciplinary Learning Module on the Topic of AI in the Media Industry, Master's Thesis.</li>
               <li>Hoeffer, K. (2022). Activity Recognition on Smartphones – Development of Teaching Material for Computer-Aided Mathematical Modeling Projects, Master's Thesis, KIT.</li>

@@ -85,7 +85,6 @@ email: ''
 highlight_name: true
 ---
 
-Ich bin Assistenzprofessorin (Tenure Track) für Mathematikdidaktik an der Universität Salzburg. Meine Forschungsinteressen liegen im Bereich mathematische Modellierung und Bildung über KI und Data Science.<br>
-Im Rahmen des Schülerprogramms <a href="https://www.cammp.online/">CAMMP</a> entwickle ich innovative Materialien und Konzepte für den Mathematikunterricht. Zudem bin ich Geschäftsführerin des gemeinnützigen Unternehmens <a href="http://ki-macht-schule.de">KI macht Schule</a>, das Bildung über KI und maschinelles Lernen in deutschsprachige Schulen bringt! 
+Ich bin Assistenzprofessorin (Tenure Track) für Mathematikdidaktik an der Universität Salzburg. Meine Forschungsschwerpunkte liegen im Bereich mathematische Modellierung sowie Bildung in den Bereichen KI und Data Science. Im Rahmen des Schülerprogramms <a href="https://www.cammp.online/">CAMMP</a> entwickle ich innovative Materialien und Lehrkonzepte für den Mathematikunterricht. Zudem bin ich Geschäftsführerin der gemeinnützigen Initiative <a href="https://ki-macht-schule.at">KI macht Schule</a>, die Bildung über KI und maschinelles Lernen in deutschsprachige Schulen bringt.
 
 {style="text-align: justify;"}
