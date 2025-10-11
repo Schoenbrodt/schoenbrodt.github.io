@@ -16,7 +16,7 @@ authors:
 #   - 'Equal contribution'
 
 date: '2025-09-01T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.1111/test.70016'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2025-09-01T00:00:00Z'
@@ -28,7 +28,7 @@ publishDate: '2025-09-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: "(accepted). *Teaching Statistics*"
+publication: "*Teaching Statistics*"
 # publication_short: In *ICW*
 
 abstract: This paper presents a learning activity designed to develop and analyze various approaches to fairness in data-driven algorithms with high school students. The activity is based on a scenario of fair credit granting across two groups. In the activity, students explore different decisions based on credit scores for the two groups from a fairness perspective. The ambiguous nature of fairness prompts various statistical approaches, each with distinct advantages and limitations. Working on this topic provides an opportunity to link knowledge about data visualizations and statistical measures to the ethical use of data-driven algorithms within a real-world scenario. We discuss initial experiences implementing the learning activity with both upper secondary students and preservice teachers, highlighting fairness approaches proposed by students.
@@ -47,7 +47,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-#url_pdf: 'https://openreview.net/pdf?id=tTkzf2GH00'
+url_pdf: 'https://doi.org/10.1111/test.70016'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
