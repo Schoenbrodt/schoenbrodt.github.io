@@ -1,6 +1,6 @@
 ---
 title: International Workshop on Computational Thinking, Data Science, and AI in K‑12 Mathematics Education
-summary: Member of Planning Committee of a Natioanl Academies Workshop on AI, Data Science and Computational Thinking in Mathematics Education
+summary: Member of the Planning Committee for a National Academies Workshop on AI, Data Science, and Computational Thinking in Mathematics Education
 date: 2026-02-23
 
 # Featured image
