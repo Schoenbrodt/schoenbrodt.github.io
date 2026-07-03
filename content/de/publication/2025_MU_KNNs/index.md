@@ -14,7 +14,7 @@ authors:
 # doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-01-10T00:00:00Z"
+publishDate: "2026-02-10T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,7 +23,7 @@ publishDate: "2025-01-10T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "(angenommen). *Der Mathematikunterricht*. Friedrich-Verlag" # "*Journal of Source Themes, 1*(1)"
+publication: "*Der Mathematikunterricht*. Friedrich-Verlag" # "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
 abstract: 'KI durchdringt immer mehr Bereiche unseres Lebens. Es ist unerlässlich, dass Schüler:innen ein umfassendes Verständnis der Funktionsweise dieser Technologie erwerben, um das Potenzial verantwortungsvoll zu nutzen und Grenzen und Gefahren reflektiert einschätzen zu können. Die Förderung von AI Literacy geht über den Informatikunterricht hinaus und wird zur Aufgabe des gesamten Schulsystems. Aufgrund der zentralen Rolle der Mathematik bei der Entwicklung von KI-Systemen kann der Mathematikunterricht einen wesentlichen Beitrag leisten. So sind die Grundbausteine künstlicher neuronaler Netze einfache mathematische Funktionen, welche vielfach verkettet sind. Durch die Analyse solcher Funktionen kann der Mathematikunterricht wesentlich zum Verständnis und zur Entmystifizierung von allgegenwärtigen KI-Anwendungen beitragen.'
