@@ -8,7 +8,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biographie
+      title: Über mich
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: experience
@@ -24,7 +24,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: TT-Assistenzprofessorin
+        - title: Assistenzprofessorin (Tenure Track)
           company: Paris Lodron Universität Salzburg
           company_url: 'https://www.plus.ac.at/mathematik/fachbereich/team/schoenbrodt-sarah/'
           company_logo: Logo_PLUS
