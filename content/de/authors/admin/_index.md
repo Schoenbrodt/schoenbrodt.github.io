@@ -86,9 +86,7 @@ highlight_name: true
 ---
 
 Ich bin Assistenzprofessorin (Tenure Track) für Mathematikdidaktik an der Universität Salzburg. Meine Forschung untersucht, wie mathematische Modellierung, Data Science und Künstliche Intelligenz für eine fachlich fundierte, kritisch-reflexive und zukunftsorientierte mathematische Bildung erschlossen werden können.
-
 Dazu verbinde ich stoffdidaktische Grundlagenforschung mit der Entwicklung und empirischen Evaluation digitaler Lernumgebungen sowie mit dem Transfer in Schule und Lehrkräftebildung. Im Mittelpunkt stehen mathematische Grundlagen des maschinellen Lernens, Daten und Datenqualität, Modellierungsprozesse sowie algorithmische Entscheidungen und Fairness.
-
 Im Rahmen von <a href="https://www.cammp.online/">CAMMP</a> und als Geschäftsführerin von<a href="https://ki-macht-schule.at">KI macht Schule</a> entwickle und verbreite ich forschungsbasiert Angebote zur mathematischen Modellierung sowie zur Daten- und KI-Bildung für Schüler:innen und Lehrkräfte.
 
 
