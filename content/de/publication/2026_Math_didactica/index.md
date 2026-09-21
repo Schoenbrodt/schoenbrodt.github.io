@@ -26,7 +26,7 @@ publishDate: "2026-08-17T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Mathematica Didactica* (" # "*Journal of Source Themes, 1*(1)"
+publication: "*Mathematica Didactica* 49(2)" # "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
 abstract: 'Inwiefern Lernende bereit sind, sich mit Künstlicher Intelligenz (KI) und ihrer Funktionsweise auseinanderzusetzen, hängt auch stark von ihrer Motivation ab. Im Beitrag stellen wir das Konzept von KI-Modellierungsworkshops im Rahmen von CAMMP vor und untersuchen in einer längsschnittlichen quantitativen Studie mit N=123 Schüler*innen, inwiefern die Workshops zu einer Motivationssteigerung in Bezug auf das Verstehen von KI beitragen. Dazu wurde Motivation im Rahmen der Erwartungs-Wert-Theorie konzeptualisiert und operationalisiert. Die Ergebnisse zeigen, dass die Workshops zwar nicht zu einer Zunahme der Wertüberzeugungen der Lernenden führen, jedoch das Selbstkonzept zum Verständnis von KI im Laufe der Workshops steigt.	'
