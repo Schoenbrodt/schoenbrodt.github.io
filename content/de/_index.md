@@ -24,8 +24,8 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Assistenzprofessorin (Tenure Track)
-          company: Paris Lodron Universität Salzburg
+        - title: Assistenzprofessorin für Didaktik der Mathematik (Tenure Track)
+          company: Universität Salzburg
           company_url: 'https://www.plus.ac.at/mathematik/fachbereich/team/schoenbrodt-sarah/'
           company_logo: Logo_PLUS
           location: Salzburg, Österreich
