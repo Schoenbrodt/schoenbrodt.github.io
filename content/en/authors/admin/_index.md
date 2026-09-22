@@ -14,11 +14,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Assistant professor @ University of Salzburg, Austria
+role: Assistant Professor of Mathematics Education
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Paris Lodron University of Salzburg
+  - name: University of Salzburg
     url: https://www.plus.ac.at/?lang=en
 
 # Short bio (displayed in user profile at end of posts)
