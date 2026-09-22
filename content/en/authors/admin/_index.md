@@ -84,8 +84,11 @@ email: ''
 highlight_name: true
 ---
 
-I am a tenure-track Assistant Professor of Mathematics Education at the University of Salzburg. My research focuses on mathematical modeling, as well as teaching and learning in Data Science and AI.
-As part of the <a href="https://www.cammp.online/">CAMMP</a> education program, I develop innovative materials and teaching concepts to enhance  education in applied mathematics. I also serve on the leadership team of <a href="http://ki-macht-schule.de">KI macht Schule</a>, a non-profit bringing AI and machine learning education to German-speaking schools.
+I am an Assistant Professor of Mathematics Education (tenure track) at the University of Salzburg. My research explores how mathematical modelling, data science, and artificial intelligence can contribute to mathematically rigorous, critically reflective, and future-oriented mathematics education.
+
+To this end, I combine subject-matter didactics research with the design and empirical evaluation of digital learning environments, as well as the transfer of research into schools and teacher education. My work focuses on the mathematical foundations of machine learning; data and data quality; modelling processes; and algorithmic decision-making and fairness.
+
+Through <a href="https://www.cammp.online/">CAMMP</a> and <a href="http://ki-macht-schule.de">KI macht Schule</a>, I develop research-based programmes and resources on mathematical modelling, data literacy, and AI literacy for students and teachers.
  
 
 {style="text-align: justify;"}
