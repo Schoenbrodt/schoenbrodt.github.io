@@ -19,9 +19,3 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
-
-[[redirects]]
-  from = "/fobi"
-  to = "https://public.app.basecamp.com/p/iN3KDUwADQmGu4H9H9YeDcJV"
-  status = 301
-  force = true
